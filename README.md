@@ -1,3 +1,6 @@
+# Food Backend Setup Instructions
+
+```bash
 cd food-backend-main
 pip install uvicorn
 python -m venv venv
@@ -6,3 +9,4 @@ pip install "fastapi[all]"
 pip install pandas
 pip install sklearn
 uvicorn main:app --reload
+
