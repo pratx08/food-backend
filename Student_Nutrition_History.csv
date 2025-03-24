@@ -1,0 +1,501 @@
+Student_ID,Previous_Day_Meals,Calories_Consumed,Protein (g),Carbs (g),Fats (g)
+1,"Chicken Wrap, Cheese Pizza, Rice Bowl, Veggie Burger",1666,114,187,82
+2,"Veggie Burger, Grilled Chicken, Garden Salad, Chicken Wrap",2415,99,120,62
+3,"Cheese Pizza, Chicken Wrap, Grilled Chicken",1710,81,287,45
+4,"Veggie Burger, Cheese Pizza, Fish Tacos, Pasta Salad",2031,42,150,36
+5,"Fish Tacos, Grilled Chicken",1976,92,229,49
+6,"Cheese Pizza, Veggie Burger, Grilled Chicken, Rice Bowl",1405,75,149,69
+7,"Grilled Chicken, Veggie Burger, Fish Tacos",1902,57,143,63
+8,"Fish Tacos, Grilled Chicken, Cheese Pizza",1919,92,123,55
+9,"Cheese Pizza, Grilled Chicken",1264,110,108,53
+10,"Cheese Pizza, Chicken Wrap",1488,44,140,57
+11,"Rice Bowl, Fish Tacos, Grilled Chicken, Garden Salad",2797,76,198,73
+12,"Pasta Salad, Cheese Pizza, Fish Tacos",1842,40,104,55
+13,"Fish Tacos, Cheese Pizza, Pasta Salad, Chicken Wrap",2777,116,278,61
+14,"Rice Bowl, Grilled Chicken, Chicken Wrap, Cheese Pizza",1430,54,270,58
+15,"Veggie Burger, Fish Tacos",1756,101,284,82
+16,"Veggie Burger, Grilled Chicken, Cheese Pizza",2554,101,228,86
+17,"Cheese Pizza, Chicken Wrap, Grilled Chicken, Garden Salad",1909,111,254,38
+18,"Chicken Wrap, Garden Salad, Rice Bowl",2597,71,195,53
+19,"Grilled Chicken, Fish Tacos",2609,42,212,66
+20,"Fish Tacos, Rice Bowl",2789,40,246,31
+21,"Veggie Burger, Garden Salad",1322,56,137,53
+22,"Garden Salad, Chicken Wrap",2347,98,169,45
+23,"Veggie Burger, Cheese Pizza",2734,58,247,61
+24,"Fish Tacos, Grilled Chicken, Rice Bowl, Chicken Wrap",1672,89,250,60
+25,"Garden Salad, Fish Tacos, Veggie Burger",2795,41,228,77
+26,"Cheese Pizza, Chicken Wrap, Veggie Burger",2322,58,147,45
+27,"Fish Tacos, Cheese Pizza, Garden Salad, Grilled Chicken",2643,77,203,49
+28,"Fish Tacos, Cheese Pizza, Pasta Salad",2077,105,153,64
+29,"Grilled Chicken, Fish Tacos",2015,59,227,37
+30,"Rice Bowl, Cheese Pizza, Fish Tacos, Chicken Wrap",2598,61,257,67
+31,"Pasta Salad, Veggie Burger, Cheese Pizza",1997,67,210,62
+32,"Garden Salad, Cheese Pizza",1216,83,257,58
+33,"Garden Salad, Cheese Pizza, Chicken Wrap",2572,85,280,60
+34,"Cheese Pizza, Rice Bowl, Grilled Chicken, Garden Salad",2479,106,227,47
+35,"Veggie Burger, Pasta Salad",1825,71,274,51
+36,"Rice Bowl, Veggie Burger, Pasta Salad, Fish Tacos",2327,72,236,72
+37,"Pasta Salad, Veggie Burger, Rice Bowl",2120,63,112,89
+38,"Grilled Chicken, Cheese Pizza, Chicken Wrap",1711,55,241,41
+39,"Rice Bowl, Veggie Burger, Grilled Chicken, Fish Tacos",2053,90,252,87
+40,"Grilled Chicken, Veggie Burger, Pasta Salad, Garden Salad",1881,109,114,83
+41,"Cheese Pizza, Grilled Chicken, Rice Bowl, Chicken Wrap",2419,45,208,61
+42,"Veggie Burger, Chicken Wrap, Rice Bowl",1856,102,118,57
+43,"Grilled Chicken, Pasta Salad, Rice Bowl",2350,48,239,82
+44,"Rice Bowl, Grilled Chicken",1759,40,115,68
+45,"Veggie Burger, Garden Salad, Cheese Pizza, Pasta Salad",2658,96,128,43
+46,"Fish Tacos, Grilled Chicken",1631,78,199,62
+47,"Grilled Chicken, Pasta Salad, Veggie Burger",2001,91,237,87
+48,"Garden Salad, Chicken Wrap, Grilled Chicken, Pasta Salad",1696,71,183,53
+49,"Cheese Pizza, Garden Salad, Chicken Wrap",2491,106,164,62
+50,"Veggie Burger, Cheese Pizza, Chicken Wrap",2476,74,180,55
+51,"Fish Tacos, Pasta Salad",2419,97,213,74
+52,"Grilled Chicken, Cheese Pizza, Garden Salad, Rice Bowl",2617,112,251,64
+53,"Fish Tacos, Rice Bowl",1236,51,212,84
+54,"Pasta Salad, Rice Bowl",1261,52,286,48
+55,"Cheese Pizza, Garden Salad",1917,91,182,87
+56,"Rice Bowl, Cheese Pizza, Veggie Burger, Pasta Salad",2090,92,250,45
+57,"Veggie Burger, Pasta Salad",2446,44,262,52
+58,"Fish Tacos, Garden Salad",1691,56,106,75
+59,"Rice Bowl, Pasta Salad",2740,68,264,67
+60,"Cheese Pizza, Garden Salad, Grilled Chicken, Rice Bowl",1416,84,231,65
+61,"Rice Bowl, Veggie Burger, Cheese Pizza",1290,113,189,48
+62,"Veggie Burger, Garden Salad, Pasta Salad, Cheese Pizza",1675,111,160,70
+63,"Rice Bowl, Garden Salad, Chicken Wrap, Cheese Pizza",2731,64,155,62
+64,"Garden Salad, Grilled Chicken, Chicken Wrap",2014,60,179,83
+65,"Veggie Burger, Cheese Pizza",2664,57,146,70
+66,"Grilled Chicken, Chicken Wrap",1855,96,111,39
+67,"Veggie Burger, Grilled Chicken, Rice Bowl",1897,99,277,57
+68,"Cheese Pizza, Rice Bowl",1660,68,240,75
+69,"Garden Salad, Chicken Wrap, Veggie Burger, Pasta Salad",1649,49,155,59
+70,"Chicken Wrap, Pasta Salad, Rice Bowl",1423,88,110,50
+71,"Cheese Pizza, Pasta Salad, Chicken Wrap",1304,40,248,77
+72,"Garden Salad, Cheese Pizza, Chicken Wrap, Grilled Chicken",1970,92,122,66
+73,"Chicken Wrap, Rice Bowl",1656,40,150,74
+74,"Fish Tacos, Grilled Chicken",1294,111,138,55
+75,"Veggie Burger, Pasta Salad, Chicken Wrap",2277,44,156,46
+76,"Grilled Chicken, Veggie Burger, Pasta Salad, Cheese Pizza",1634,77,291,89
+77,"Pasta Salad, Veggie Burger, Grilled Chicken",1634,102,151,86
+78,"Fish Tacos, Rice Bowl, Chicken Wrap",1996,43,237,85
+79,"Grilled Chicken, Chicken Wrap",1252,105,225,72
+80,"Fish Tacos, Cheese Pizza, Pasta Salad, Rice Bowl",1294,114,217,45
+81,"Rice Bowl, Veggie Burger",1833,90,246,50
+82,"Grilled Chicken, Garden Salad",2736,44,111,55
+83,"Fish Tacos, Pasta Salad, Grilled Chicken",1993,86,220,51
+84,"Pasta Salad, Garden Salad, Cheese Pizza, Veggie Burger",2480,47,212,64
+85,"Veggie Burger, Fish Tacos",2439,41,208,55
+86,"Pasta Salad, Cheese Pizza, Veggie Burger",2729,77,214,44
+87,"Chicken Wrap, Rice Bowl",2454,83,124,46
+88,"Fish Tacos, Rice Bowl",2369,73,210,37
+89,"Chicken Wrap, Garden Salad",2505,103,286,85
+90,"Grilled Chicken, Cheese Pizza, Pasta Salad, Garden Salad",1476,109,169,84
+91,"Cheese Pizza, Fish Tacos, Pasta Salad",1742,79,135,53
+92,"Veggie Burger, Garden Salad, Fish Tacos, Grilled Chicken",1317,90,161,86
+93,"Fish Tacos, Rice Bowl, Pasta Salad",2633,107,118,49
+94,"Fish Tacos, Grilled Chicken",2773,76,225,40
+95,"Chicken Wrap, Garden Salad, Cheese Pizza, Veggie Burger",1209,44,250,39
+96,"Garden Salad, Rice Bowl, Chicken Wrap",1984,48,242,53
+97,"Pasta Salad, Chicken Wrap, Cheese Pizza",1435,89,177,82
+98,"Rice Bowl, Garden Salad, Chicken Wrap, Fish Tacos",2543,61,159,58
+99,"Garden Salad, Chicken Wrap, Grilled Chicken, Cheese Pizza",2388,44,182,88
+100,"Grilled Chicken, Garden Salad, Chicken Wrap",1601,79,171,68
+101,"Cheese Pizza, Rice Bowl, Pasta Salad",2192,64,244,62
+102,"Chicken Wrap, Veggie Burger, Grilled Chicken, Pasta Salad",1397,45,166,36
+103,"Grilled Chicken, Rice Bowl, Garden Salad, Veggie Burger",2122,75,256,67
+104,"Pasta Salad, Cheese Pizza",1395,105,109,34
+105,"Garden Salad, Chicken Wrap, Pasta Salad, Grilled Chicken",1415,91,283,44
+106,"Grilled Chicken, Cheese Pizza",2634,75,135,55
+107,"Veggie Burger, Garden Salad, Rice Bowl, Cheese Pizza",1749,45,299,52
+108,"Garden Salad, Fish Tacos, Veggie Burger, Chicken Wrap",2157,99,270,41
+109,"Garden Salad, Rice Bowl",2213,90,128,43
+110,"Pasta Salad, Garden Salad",1619,93,156,30
+111,"Cheese Pizza, Pasta Salad, Veggie Burger, Chicken Wrap",2360,113,279,86
+112,"Rice Bowl, Fish Tacos",1585,46,261,56
+113,"Veggie Burger, Cheese Pizza",1863,64,298,81
+114,"Rice Bowl, Cheese Pizza, Pasta Salad",1865,67,213,50
+115,"Rice Bowl, Grilled Chicken",1675,102,288,69
+116,"Chicken Wrap, Cheese Pizza",1231,69,128,78
+117,"Garden Salad, Pasta Salad",2398,105,212,79
+118,"Cheese Pizza, Garden Salad, Fish Tacos",1999,49,209,63
+119,"Rice Bowl, Fish Tacos",2032,96,166,53
+120,"Cheese Pizza, Pasta Salad, Rice Bowl, Chicken Wrap",2274,47,261,64
+121,"Garden Salad, Cheese Pizza, Veggie Burger",1668,53,154,77
+122,"Chicken Wrap, Pasta Salad, Rice Bowl",2771,68,287,47
+123,"Rice Bowl, Chicken Wrap, Cheese Pizza",2609,106,218,41
+124,"Grilled Chicken, Pasta Salad",2723,63,180,39
+125,"Pasta Salad, Fish Tacos, Garden Salad",1725,48,139,31
+126,"Rice Bowl, Fish Tacos",1228,76,174,35
+127,"Garden Salad, Grilled Chicken, Rice Bowl",2240,76,252,67
+128,"Chicken Wrap, Grilled Chicken, Veggie Burger",2510,45,267,63
+129,"Grilled Chicken, Pasta Salad",2699,101,221,75
+130,"Chicken Wrap, Cheese Pizza, Fish Tacos",2594,65,128,50
+131,"Fish Tacos, Cheese Pizza, Rice Bowl, Garden Salad",2450,93,197,84
+132,"Grilled Chicken, Cheese Pizza, Veggie Burger, Pasta Salad",2771,59,180,88
+133,"Pasta Salad, Chicken Wrap",1912,79,116,30
+134,"Rice Bowl, Chicken Wrap",2721,83,278,59
+135,"Chicken Wrap, Veggie Burger, Rice Bowl",2016,100,116,39
+136,"Cheese Pizza, Chicken Wrap",2304,119,297,37
+137,"Rice Bowl, Fish Tacos",2761,86,131,39
+138,"Grilled Chicken, Chicken Wrap, Pasta Salad, Rice Bowl",1534,46,236,80
+139,"Veggie Burger, Pasta Salad, Rice Bowl",2134,57,286,71
+140,"Garden Salad, Cheese Pizza, Chicken Wrap, Fish Tacos",1330,76,270,69
+141,"Grilled Chicken, Cheese Pizza, Fish Tacos",2120,52,260,45
+142,"Veggie Burger, Fish Tacos",1745,69,112,42
+143,"Rice Bowl, Fish Tacos, Cheese Pizza",1676,101,284,45
+144,"Fish Tacos, Garden Salad, Pasta Salad, Grilled Chicken",1588,104,276,32
+145,"Grilled Chicken, Veggie Burger",1631,104,280,75
+146,"Fish Tacos, Cheese Pizza, Grilled Chicken, Pasta Salad",1260,82,223,35
+147,"Fish Tacos, Pasta Salad, Veggie Burger, Cheese Pizza",2376,110,151,33
+148,"Garden Salad, Cheese Pizza, Veggie Burger, Grilled Chicken",2553,96,268,78
+149,"Pasta Salad, Veggie Burger, Chicken Wrap",1888,48,198,49
+150,"Chicken Wrap, Pasta Salad, Garden Salad",1261,56,102,61
+151,"Grilled Chicken, Pasta Salad, Cheese Pizza, Chicken Wrap",2490,95,166,88
+152,"Garden Salad, Rice Bowl",2686,79,124,34
+153,"Rice Bowl, Fish Tacos, Garden Salad, Veggie Burger",1653,76,159,77
+154,"Grilled Chicken, Chicken Wrap",1517,97,166,85
+155,"Pasta Salad, Garden Salad, Cheese Pizza",2370,119,267,57
+156,"Cheese Pizza, Pasta Salad",2393,102,254,67
+157,"Rice Bowl, Pasta Salad, Garden Salad, Veggie Burger",1734,81,237,61
+158,"Grilled Chicken, Veggie Burger, Chicken Wrap, Garden Salad",2747,78,293,61
+159,"Pasta Salad, Cheese Pizza",1899,103,187,74
+160,"Garden Salad, Pasta Salad, Fish Tacos, Veggie Burger",2635,99,178,59
+161,"Veggie Burger, Grilled Chicken",1930,103,116,41
+162,"Fish Tacos, Grilled Chicken, Pasta Salad",1409,89,113,76
+163,"Fish Tacos, Cheese Pizza",2230,68,238,62
+164,"Veggie Burger, Pasta Salad, Fish Tacos",2705,85,128,33
+165,"Pasta Salad, Cheese Pizza",2353,86,183,51
+166,"Cheese Pizza, Garden Salad, Rice Bowl, Fish Tacos",1502,119,200,88
+167,"Pasta Salad, Cheese Pizza, Garden Salad",2133,54,261,64
+168,"Chicken Wrap, Rice Bowl",2283,85,244,58
+169,"Fish Tacos, Veggie Burger",1548,103,271,82
+170,"Chicken Wrap, Fish Tacos, Garden Salad",2496,48,265,77
+171,"Chicken Wrap, Grilled Chicken",1783,50,163,42
+172,"Pasta Salad, Veggie Burger",1365,71,110,74
+173,"Fish Tacos, Cheese Pizza",2311,80,244,41
+174,"Grilled Chicken, Cheese Pizza",2135,71,196,31
+175,"Pasta Salad, Grilled Chicken",2326,105,265,68
+176,"Veggie Burger, Pasta Salad, Grilled Chicken",2528,114,160,32
+177,"Fish Tacos, Cheese Pizza, Pasta Salad, Grilled Chicken",1752,115,107,37
+178,"Cheese Pizza, Veggie Burger, Garden Salad",2307,119,231,35
+179,"Fish Tacos, Chicken Wrap, Garden Salad",2170,51,186,41
+180,"Chicken Wrap, Garden Salad",2579,84,235,58
+181,"Veggie Burger, Rice Bowl, Chicken Wrap, Cheese Pizza",1861,76,195,85
+182,"Fish Tacos, Veggie Burger",1292,93,290,44
+183,"Chicken Wrap, Rice Bowl",1223,59,136,33
+184,"Garden Salad, Rice Bowl, Fish Tacos",2473,105,178,63
+185,"Fish Tacos, Veggie Burger, Pasta Salad",2491,42,117,69
+186,"Rice Bowl, Chicken Wrap",2521,83,113,43
+187,"Pasta Salad, Grilled Chicken, Cheese Pizza",1580,53,183,31
+188,"Chicken Wrap, Pasta Salad, Cheese Pizza, Fish Tacos",2452,44,292,69
+189,"Veggie Burger, Pasta Salad",1791,113,192,39
+190,"Garden Salad, Cheese Pizza, Grilled Chicken",1712,96,163,83
+191,"Cheese Pizza, Chicken Wrap",2779,95,255,76
+192,"Veggie Burger, Chicken Wrap, Cheese Pizza, Garden Salad",2168,76,119,55
+193,"Cheese Pizza, Pasta Salad",2384,90,111,71
+194,"Rice Bowl, Pasta Salad",2408,78,283,76
+195,"Fish Tacos, Veggie Burger, Chicken Wrap, Grilled Chicken",1507,119,277,71
+196,"Pasta Salad, Garden Salad, Rice Bowl, Grilled Chicken",2581,44,185,76
+197,"Chicken Wrap, Fish Tacos, Pasta Salad",2368,65,235,76
+198,"Cheese Pizza, Garden Salad",2510,119,241,82
+199,"Chicken Wrap, Grilled Chicken",1774,112,260,70
+200,"Cheese Pizza, Pasta Salad",2170,107,197,67
+201,"Chicken Wrap, Garden Salad, Veggie Burger",2502,114,228,53
+202,"Pasta Salad, Cheese Pizza, Chicken Wrap",1910,54,248,48
+203,"Fish Tacos, Pasta Salad",2490,111,209,43
+204,"Pasta Salad, Fish Tacos, Chicken Wrap",2015,105,297,57
+205,"Chicken Wrap, Grilled Chicken",2516,118,143,65
+206,"Fish Tacos, Veggie Burger, Chicken Wrap, Pasta Salad",2204,60,250,72
+207,"Rice Bowl, Cheese Pizza, Veggie Burger, Grilled Chicken",1914,90,114,33
+208,"Garden Salad, Pasta Salad",2207,91,126,58
+209,"Veggie Burger, Garden Salad, Fish Tacos, Rice Bowl",1788,43,189,54
+210,"Fish Tacos, Rice Bowl, Veggie Burger",2158,95,269,71
+211,"Grilled Chicken, Cheese Pizza, Chicken Wrap",1758,52,218,51
+212,"Garden Salad, Grilled Chicken, Chicken Wrap",1209,81,171,53
+213,"Veggie Burger, Rice Bowl",2283,78,188,47
+214,"Fish Tacos, Chicken Wrap, Grilled Chicken, Rice Bowl",1682,72,218,50
+215,"Veggie Burger, Cheese Pizza",2168,117,176,86
+216,"Chicken Wrap, Pasta Salad, Rice Bowl",2597,78,268,78
+217,"Veggie Burger, Fish Tacos, Cheese Pizza, Chicken Wrap",1753,71,266,74
+218,"Garden Salad, Cheese Pizza, Rice Bowl",2576,109,268,68
+219,"Fish Tacos, Rice Bowl",1348,47,299,79
+220,"Veggie Burger, Garden Salad, Chicken Wrap, Grilled Chicken",2353,83,101,67
+221,"Veggie Burger, Chicken Wrap",2665,75,296,42
+222,"Grilled Chicken, Rice Bowl",1254,55,111,46
+223,"Garden Salad, Veggie Burger, Cheese Pizza, Grilled Chicken",2471,104,220,59
+224,"Veggie Burger, Fish Tacos",2384,55,137,81
+225,"Garden Salad, Chicken Wrap, Cheese Pizza",1560,41,292,40
+226,"Veggie Burger, Fish Tacos, Grilled Chicken, Garden Salad",2642,61,270,44
+227,"Garden Salad, Veggie Burger, Grilled Chicken",1241,77,181,74
+228,"Veggie Burger, Garden Salad, Fish Tacos, Pasta Salad",2749,112,242,50
+229,"Veggie Burger, Fish Tacos, Pasta Salad, Rice Bowl",1465,64,293,54
+230,"Fish Tacos, Grilled Chicken",1580,91,230,64
+231,"Grilled Chicken, Pasta Salad",2163,64,178,33
+232,"Veggie Burger, Rice Bowl",2188,99,290,35
+233,"Garden Salad, Veggie Burger",2210,44,261,39
+234,"Pasta Salad, Fish Tacos",2686,112,182,38
+235,"Rice Bowl, Cheese Pizza, Garden Salad, Chicken Wrap",2775,56,200,68
+236,"Rice Bowl, Fish Tacos",2797,46,254,57
+237,"Grilled Chicken, Pasta Salad, Veggie Burger",2406,41,161,56
+238,"Veggie Burger, Pasta Salad",2646,44,164,42
+239,"Grilled Chicken, Pasta Salad",1372,71,263,46
+240,"Cheese Pizza, Chicken Wrap, Rice Bowl, Garden Salad",1709,107,133,81
+241,"Garden Salad, Cheese Pizza, Rice Bowl",1753,60,141,42
+242,"Pasta Salad, Grilled Chicken",2783,68,196,39
+243,"Veggie Burger, Chicken Wrap, Rice Bowl",1975,98,299,78
+244,"Cheese Pizza, Rice Bowl, Garden Salad, Chicken Wrap",1300,47,176,37
+245,"Rice Bowl, Cheese Pizza",2240,44,247,50
+246,"Cheese Pizza, Veggie Burger, Fish Tacos",2614,67,150,72
+247,"Veggie Burger, Pasta Salad, Grilled Chicken",1567,47,203,54
+248,"Pasta Salad, Fish Tacos",1368,101,213,39
+249,"Garden Salad, Rice Bowl",1359,55,131,61
+250,"Fish Tacos, Pasta Salad, Rice Bowl",1687,98,177,89
+251,"Grilled Chicken, Fish Tacos, Chicken Wrap",2511,90,273,78
+252,"Garden Salad, Chicken Wrap",2753,60,240,50
+253,"Veggie Burger, Cheese Pizza, Grilled Chicken",1797,61,188,51
+254,"Pasta Salad, Rice Bowl",1482,89,194,44
+255,"Cheese Pizza, Rice Bowl, Chicken Wrap, Veggie Burger",1895,42,290,83
+256,"Chicken Wrap, Cheese Pizza, Veggie Burger, Grilled Chicken",2452,47,205,87
+257,"Garden Salad, Cheese Pizza",2073,49,248,75
+258,"Rice Bowl, Garden Salad, Fish Tacos, Pasta Salad",1699,75,185,71
+259,"Grilled Chicken, Fish Tacos, Garden Salad",2641,92,220,49
+260,"Pasta Salad, Fish Tacos, Cheese Pizza, Veggie Burger",2604,43,119,39
+261,"Pasta Salad, Veggie Burger, Chicken Wrap",1401,77,273,33
+262,"Grilled Chicken, Chicken Wrap",1535,97,154,81
+263,"Veggie Burger, Fish Tacos, Pasta Salad",1259,58,148,75
+264,"Chicken Wrap, Grilled Chicken, Veggie Burger, Garden Salad",2067,103,118,77
+265,"Fish Tacos, Chicken Wrap",2336,86,156,89
+266,"Cheese Pizza, Rice Bowl, Grilled Chicken",1598,109,146,43
+267,"Grilled Chicken, Rice Bowl, Pasta Salad, Chicken Wrap",1249,42,206,78
+268,"Cheese Pizza, Pasta Salad, Garden Salad",1956,58,269,64
+269,"Garden Salad, Chicken Wrap, Veggie Burger",1248,60,173,34
+270,"Garden Salad, Fish Tacos, Veggie Burger",2536,109,140,83
+271,"Rice Bowl, Cheese Pizza, Fish Tacos",1924,69,251,73
+272,"Veggie Burger, Garden Salad, Cheese Pizza",2105,119,243,83
+273,"Grilled Chicken, Chicken Wrap, Rice Bowl, Garden Salad",1795,96,120,33
+274,"Chicken Wrap, Fish Tacos, Garden Salad",2695,54,275,36
+275,"Grilled Chicken, Rice Bowl",2305,108,230,52
+276,"Chicken Wrap, Cheese Pizza, Pasta Salad",1644,80,260,79
+277,"Chicken Wrap, Fish Tacos",1488,63,160,63
+278,"Pasta Salad, Chicken Wrap, Cheese Pizza",2717,109,197,30
+279,"Garden Salad, Grilled Chicken, Pasta Salad",2367,90,224,68
+280,"Fish Tacos, Veggie Burger, Cheese Pizza",1442,102,148,61
+281,"Grilled Chicken, Veggie Burger, Chicken Wrap, Rice Bowl",1575,118,215,57
+282,"Chicken Wrap, Rice Bowl, Garden Salad",1646,105,252,85
+283,"Rice Bowl, Fish Tacos, Chicken Wrap",1878,91,122,54
+284,"Veggie Burger, Chicken Wrap, Pasta Salad, Rice Bowl",1467,113,107,53
+285,"Rice Bowl, Cheese Pizza",1437,81,159,49
+286,"Veggie Burger, Garden Salad, Chicken Wrap",1239,72,228,84
+287,"Veggie Burger, Rice Bowl",1565,58,131,38
+288,"Cheese Pizza, Pasta Salad, Chicken Wrap, Grilled Chicken",1869,52,261,33
+289,"Chicken Wrap, Fish Tacos, Pasta Salad",1552,107,124,49
+290,"Pasta Salad, Chicken Wrap, Veggie Burger",2700,48,215,67
+291,"Fish Tacos, Cheese Pizza, Garden Salad",2142,112,230,41
+292,"Rice Bowl, Grilled Chicken, Veggie Burger",1745,80,150,76
+293,"Pasta Salad, Chicken Wrap, Garden Salad",2130,72,224,45
+294,"Garden Salad, Chicken Wrap, Fish Tacos",2054,102,166,33
+295,"Cheese Pizza, Pasta Salad, Chicken Wrap",2148,85,241,65
+296,"Fish Tacos, Cheese Pizza",2338,45,250,88
+297,"Grilled Chicken, Fish Tacos, Chicken Wrap, Veggie Burger",2765,117,183,78
+298,"Pasta Salad, Fish Tacos",2098,81,118,38
+299,"Cheese Pizza, Chicken Wrap",2731,58,274,81
+300,"Grilled Chicken, Cheese Pizza, Veggie Burger",1464,103,260,85
+301,"Pasta Salad, Cheese Pizza",1421,80,295,88
+302,"Cheese Pizza, Garden Salad, Grilled Chicken",1894,55,161,78
+303,"Fish Tacos, Chicken Wrap, Rice Bowl",2548,87,119,66
+304,"Cheese Pizza, Grilled Chicken, Chicken Wrap, Garden Salad",2547,74,164,37
+305,"Fish Tacos, Veggie Burger",1858,65,151,58
+306,"Cheese Pizza, Rice Bowl, Garden Salad",1331,94,298,57
+307,"Rice Bowl, Veggie Burger, Garden Salad",2150,40,171,52
+308,"Grilled Chicken, Fish Tacos, Pasta Salad",1461,66,235,48
+309,"Pasta Salad, Cheese Pizza, Grilled Chicken",1341,74,275,74
+310,"Grilled Chicken, Pasta Salad",2359,82,247,89
+311,"Pasta Salad, Grilled Chicken",2586,93,225,70
+312,"Cheese Pizza, Grilled Chicken",2794,78,282,70
+313,"Cheese Pizza, Pasta Salad, Veggie Burger, Chicken Wrap",2781,84,100,69
+314,"Grilled Chicken, Cheese Pizza, Veggie Burger, Chicken Wrap",2524,108,107,54
+315,"Cheese Pizza, Veggie Burger, Pasta Salad, Grilled Chicken",2049,57,293,33
+316,"Fish Tacos, Rice Bowl, Grilled Chicken",1611,79,183,78
+317,"Chicken Wrap, Fish Tacos",1304,113,293,80
+318,"Pasta Salad, Veggie Burger, Chicken Wrap, Grilled Chicken",2600,78,127,32
+319,"Veggie Burger, Pasta Salad, Chicken Wrap",2573,79,101,46
+320,"Cheese Pizza, Garden Salad",2185,101,148,60
+321,"Grilled Chicken, Fish Tacos",1619,84,218,38
+322,"Veggie Burger, Grilled Chicken",2674,106,255,73
+323,"Pasta Salad, Fish Tacos, Chicken Wrap, Rice Bowl",2603,72,251,68
+324,"Cheese Pizza, Grilled Chicken, Rice Bowl",1758,59,118,58
+325,"Garden Salad, Veggie Burger, Rice Bowl",2698,50,148,78
+326,"Grilled Chicken, Veggie Burger, Rice Bowl",2254,43,212,74
+327,"Pasta Salad, Cheese Pizza, Veggie Burger",2378,85,206,56
+328,"Garden Salad, Pasta Salad, Fish Tacos",1741,81,221,66
+329,"Garden Salad, Rice Bowl, Veggie Burger",1996,116,158,76
+330,"Cheese Pizza, Grilled Chicken, Rice Bowl",1504,52,261,74
+331,"Veggie Burger, Chicken Wrap, Pasta Salad",2332,90,184,75
+332,"Cheese Pizza, Veggie Burger, Rice Bowl, Garden Salad",2503,52,210,63
+333,"Rice Bowl, Chicken Wrap, Cheese Pizza, Garden Salad",2437,63,118,66
+334,"Grilled Chicken, Garden Salad, Cheese Pizza, Rice Bowl",1263,50,153,74
+335,"Cheese Pizza, Chicken Wrap, Veggie Burger, Garden Salad",2407,59,268,75
+336,"Garden Salad, Chicken Wrap, Cheese Pizza",1819,91,195,35
+337,"Rice Bowl, Fish Tacos, Chicken Wrap, Veggie Burger",1606,54,254,40
+338,"Fish Tacos, Pasta Salad",1281,90,274,76
+339,"Cheese Pizza, Garden Salad, Chicken Wrap, Rice Bowl",2080,111,246,67
+340,"Veggie Burger, Cheese Pizza, Pasta Salad, Chicken Wrap",2337,61,192,51
+341,"Chicken Wrap, Veggie Burger, Fish Tacos, Pasta Salad",2427,105,268,53
+342,"Garden Salad, Pasta Salad, Cheese Pizza, Fish Tacos",1993,110,129,36
+343,"Cheese Pizza, Garden Salad, Grilled Chicken, Rice Bowl",1340,47,232,89
+344,"Chicken Wrap, Rice Bowl",2758,48,133,75
+345,"Veggie Burger, Cheese Pizza, Garden Salad",1387,116,272,61
+346,"Veggie Burger, Garden Salad, Pasta Salad",1574,73,223,45
+347,"Fish Tacos, Chicken Wrap, Grilled Chicken",1707,73,138,32
+348,"Cheese Pizza, Pasta Salad, Veggie Burger, Garden Salad",1520,56,257,82
+349,"Rice Bowl, Cheese Pizza",1230,94,122,61
+350,"Veggie Burger, Grilled Chicken, Garden Salad",2401,67,209,81
+351,"Cheese Pizza, Fish Tacos",1975,51,218,60
+352,"Rice Bowl, Fish Tacos, Pasta Salad",2664,65,117,61
+353,"Grilled Chicken, Pasta Salad, Fish Tacos",2088,103,256,57
+354,"Pasta Salad, Cheese Pizza, Fish Tacos, Garden Salad",1627,107,199,47
+355,"Pasta Salad, Garden Salad, Rice Bowl, Cheese Pizza",1600,97,256,62
+356,"Rice Bowl, Pasta Salad, Grilled Chicken, Chicken Wrap",2324,72,123,73
+357,"Cheese Pizza, Garden Salad, Grilled Chicken, Fish Tacos",2516,81,244,66
+358,"Fish Tacos, Cheese Pizza, Rice Bowl",1426,110,112,47
+359,"Grilled Chicken, Garden Salad",2151,84,261,38
+360,"Rice Bowl, Fish Tacos, Veggie Burger, Garden Salad",1687,93,281,30
+361,"Rice Bowl, Cheese Pizza",1253,49,152,73
+362,"Pasta Salad, Grilled Chicken, Garden Salad, Veggie Burger",2067,53,237,64
+363,"Fish Tacos, Chicken Wrap",2759,68,270,54
+364,"Fish Tacos, Garden Salad, Grilled Chicken",1983,86,203,57
+365,"Chicken Wrap, Veggie Burger, Garden Salad",1944,73,264,35
+366,"Pasta Salad, Garden Salad, Cheese Pizza, Grilled Chicken",1955,96,225,41
+367,"Cheese Pizza, Veggie Burger, Rice Bowl, Grilled Chicken",1359,114,107,62
+368,"Cheese Pizza, Chicken Wrap, Garden Salad, Pasta Salad",1688,68,197,63
+369,"Veggie Burger, Grilled Chicken",1592,44,155,61
+370,"Rice Bowl, Cheese Pizza, Chicken Wrap",2715,110,205,86
+371,"Garden Salad, Chicken Wrap, Pasta Salad",1655,107,194,57
+372,"Rice Bowl, Chicken Wrap, Fish Tacos, Cheese Pizza",2792,86,258,70
+373,"Fish Tacos, Grilled Chicken, Pasta Salad",1447,93,260,79
+374,"Chicken Wrap, Pasta Salad, Rice Bowl",2613,77,161,51
+375,"Pasta Salad, Veggie Burger, Garden Salad",2189,45,192,37
+376,"Cheese Pizza, Fish Tacos",1249,50,194,57
+377,"Chicken Wrap, Cheese Pizza, Rice Bowl",1645,115,238,66
+378,"Veggie Burger, Garden Salad",1819,68,158,63
+379,"Veggie Burger, Pasta Salad",2364,47,195,65
+380,"Fish Tacos, Pasta Salad, Cheese Pizza, Chicken Wrap",1292,83,236,66
+381,"Garden Salad, Veggie Burger, Grilled Chicken",1369,105,154,37
+382,"Pasta Salad, Cheese Pizza, Chicken Wrap, Garden Salad",2396,49,108,83
+383,"Garden Salad, Rice Bowl, Fish Tacos, Pasta Salad",1526,106,247,82
+384,"Fish Tacos, Rice Bowl, Pasta Salad",1473,84,215,58
+385,"Chicken Wrap, Rice Bowl",1353,59,215,52
+386,"Garden Salad, Pasta Salad, Cheese Pizza",2624,61,197,85
+387,"Chicken Wrap, Cheese Pizza",2146,60,198,41
+388,"Cheese Pizza, Veggie Burger, Rice Bowl",1526,65,139,34
+389,"Veggie Burger, Fish Tacos",2332,47,140,77
+390,"Fish Tacos, Grilled Chicken, Veggie Burger, Cheese Pizza",2035,54,264,30
+391,"Chicken Wrap, Rice Bowl, Veggie Burger, Cheese Pizza",1735,43,166,63
+392,"Cheese Pizza, Rice Bowl",2062,92,161,70
+393,"Rice Bowl, Grilled Chicken",1590,77,184,49
+394,"Garden Salad, Veggie Burger, Cheese Pizza, Fish Tacos",2734,75,268,34
+395,"Rice Bowl, Pasta Salad",1405,96,225,77
+396,"Grilled Chicken, Chicken Wrap, Veggie Burger, Cheese Pizza",1952,55,158,84
+397,"Pasta Salad, Veggie Burger, Fish Tacos, Rice Bowl",2176,50,109,51
+398,"Cheese Pizza, Rice Bowl",2325,104,290,54
+399,"Rice Bowl, Fish Tacos, Grilled Chicken, Chicken Wrap",2646,109,100,76
+400,"Grilled Chicken, Pasta Salad, Chicken Wrap, Rice Bowl",1880,112,240,35
+401,"Cheese Pizza, Garden Salad, Rice Bowl",2299,86,208,84
+402,"Garden Salad, Chicken Wrap",2050,82,215,64
+403,"Pasta Salad, Fish Tacos, Grilled Chicken",1927,98,256,48
+404,"Cheese Pizza, Fish Tacos, Pasta Salad",1482,119,233,69
+405,"Cheese Pizza, Veggie Burger",2681,59,194,33
+406,"Pasta Salad, Chicken Wrap, Garden Salad, Fish Tacos",1574,106,213,45
+407,"Rice Bowl, Garden Salad, Veggie Burger, Fish Tacos",2235,92,174,34
+408,"Grilled Chicken, Cheese Pizza, Chicken Wrap, Fish Tacos",2045,108,217,85
+409,"Pasta Salad, Fish Tacos, Garden Salad, Grilled Chicken",2673,86,266,33
+410,"Chicken Wrap, Veggie Burger",1959,59,128,53
+411,"Fish Tacos, Grilled Chicken, Chicken Wrap",1401,56,165,35
+412,"Garden Salad, Grilled Chicken, Cheese Pizza",2691,80,276,56
+413,"Fish Tacos, Veggie Burger",1407,41,223,53
+414,"Garden Salad, Veggie Burger, Pasta Salad",1868,59,140,83
+415,"Garden Salad, Veggie Burger, Chicken Wrap, Rice Bowl",2357,118,126,39
+416,"Garden Salad, Cheese Pizza",1457,68,295,30
+417,"Garden Salad, Rice Bowl, Pasta Salad, Grilled Chicken",2146,87,248,88
+418,"Garden Salad, Grilled Chicken, Chicken Wrap",1500,107,106,78
+419,"Fish Tacos, Garden Salad",1245,71,131,35
+420,"Fish Tacos, Chicken Wrap, Pasta Salad",2730,64,255,76
+421,"Chicken Wrap, Garden Salad, Cheese Pizza, Rice Bowl",2471,56,142,86
+422,"Garden Salad, Veggie Burger",1956,62,210,61
+423,"Pasta Salad, Grilled Chicken, Fish Tacos, Cheese Pizza",2143,73,139,40
+424,"Pasta Salad, Fish Tacos",1537,87,237,47
+425,"Rice Bowl, Cheese Pizza, Veggie Burger",1586,113,201,30
+426,"Fish Tacos, Veggie Burger, Pasta Salad, Cheese Pizza",2296,45,206,54
+427,"Rice Bowl, Grilled Chicken, Fish Tacos, Cheese Pizza",1767,98,184,31
+428,"Veggie Burger, Rice Bowl",1619,76,178,57
+429,"Pasta Salad, Fish Tacos, Veggie Burger",1971,46,160,72
+430,"Fish Tacos, Cheese Pizza, Rice Bowl",2133,40,201,67
+431,"Grilled Chicken, Pasta Salad",1654,106,208,76
+432,"Rice Bowl, Cheese Pizza, Chicken Wrap, Garden Salad",1945,62,252,50
+433,"Rice Bowl, Chicken Wrap",1743,94,195,34
+434,"Fish Tacos, Pasta Salad, Garden Salad",2436,100,236,35
+435,"Garden Salad, Pasta Salad, Chicken Wrap, Cheese Pizza",1286,115,294,59
+436,"Cheese Pizza, Pasta Salad",1852,71,145,81
+437,"Pasta Salad, Cheese Pizza, Rice Bowl, Grilled Chicken",1684,45,207,47
+438,"Fish Tacos, Pasta Salad, Grilled Chicken",2137,117,221,39
+439,"Rice Bowl, Garden Salad, Fish Tacos, Veggie Burger",2234,117,266,84
+440,"Cheese Pizza, Veggie Burger, Chicken Wrap, Fish Tacos",1336,86,132,62
+441,"Pasta Salad, Chicken Wrap, Rice Bowl, Fish Tacos",2722,52,228,63
+442,"Cheese Pizza, Grilled Chicken",1494,65,116,36
+443,"Pasta Salad, Rice Bowl",2326,92,292,78
+444,"Cheese Pizza, Pasta Salad, Fish Tacos",1740,71,125,89
+445,"Grilled Chicken, Cheese Pizza",1535,80,207,80
+446,"Chicken Wrap, Cheese Pizza, Pasta Salad",1628,54,230,40
+447,"Garden Salad, Pasta Salad",1733,45,284,69
+448,"Garden Salad, Grilled Chicken, Cheese Pizza, Fish Tacos",1532,84,178,49
+449,"Veggie Burger, Garden Salad",1405,103,139,88
+450,"Veggie Burger, Cheese Pizza, Chicken Wrap, Fish Tacos",2702,69,229,78
+451,"Rice Bowl, Fish Tacos",2632,75,235,38
+452,"Rice Bowl, Grilled Chicken, Veggie Burger",1684,103,143,58
+453,"Grilled Chicken, Fish Tacos, Rice Bowl, Cheese Pizza",1600,55,230,50
+454,"Veggie Burger, Grilled Chicken, Chicken Wrap",2043,81,288,42
+455,"Chicken Wrap, Pasta Salad, Cheese Pizza, Garden Salad",1933,115,237,73
+456,"Chicken Wrap, Pasta Salad, Grilled Chicken, Fish Tacos",1990,57,161,61
+457,"Fish Tacos, Cheese Pizza",2445,100,228,59
+458,"Garden Salad, Grilled Chicken",2067,46,121,39
+459,"Grilled Chicken, Chicken Wrap, Veggie Burger, Cheese Pizza",1403,72,127,37
+460,"Cheese Pizza, Pasta Salad",2740,99,219,75
+461,"Cheese Pizza, Garden Salad, Fish Tacos",1654,116,245,31
+462,"Cheese Pizza, Chicken Wrap, Garden Salad, Pasta Salad",1998,100,294,74
+463,"Pasta Salad, Cheese Pizza, Chicken Wrap, Veggie Burger",1658,98,248,80
+464,"Veggie Burger, Garden Salad, Cheese Pizza",2638,117,251,79
+465,"Veggie Burger, Fish Tacos",1908,49,182,54
+466,"Chicken Wrap, Veggie Burger",2138,64,119,77
+467,"Fish Tacos, Pasta Salad, Veggie Burger, Chicken Wrap",2538,44,150,50
+468,"Grilled Chicken, Garden Salad, Fish Tacos",2237,114,131,40
+469,"Fish Tacos, Veggie Burger",1476,83,232,52
+470,"Fish Tacos, Chicken Wrap",2032,103,170,33
+471,"Fish Tacos, Chicken Wrap",1629,53,277,49
+472,"Garden Salad, Pasta Salad, Cheese Pizza",2445,77,230,57
+473,"Grilled Chicken, Chicken Wrap, Pasta Salad",2661,65,174,37
+474,"Grilled Chicken, Garden Salad, Veggie Burger, Chicken Wrap",1539,94,243,75
+475,"Cheese Pizza, Veggie Burger, Pasta Salad",2438,112,262,80
+476,"Rice Bowl, Grilled Chicken",1579,92,218,41
+477,"Pasta Salad, Chicken Wrap",2321,89,170,73
+478,"Veggie Burger, Garden Salad, Rice Bowl",1763,54,183,32
+479,"Fish Tacos, Chicken Wrap",1767,99,237,68
+480,"Rice Bowl, Grilled Chicken",2739,103,265,53
+481,"Fish Tacos, Veggie Burger, Pasta Salad, Grilled Chicken",2525,101,296,67
+482,"Garden Salad, Veggie Burger, Cheese Pizza",2368,104,156,84
+483,"Grilled Chicken, Pasta Salad, Garden Salad",2171,79,244,44
+484,"Grilled Chicken, Cheese Pizza, Rice Bowl",1859,116,290,41
+485,"Rice Bowl, Fish Tacos, Cheese Pizza",2662,78,295,88
+486,"Cheese Pizza, Grilled Chicken",2613,116,287,55
+487,"Cheese Pizza, Fish Tacos, Veggie Burger",2410,102,265,85
+488,"Chicken Wrap, Fish Tacos",1919,61,195,67
+489,"Garden Salad, Pasta Salad, Fish Tacos, Cheese Pizza",1898,115,276,88
+490,"Cheese Pizza, Rice Bowl, Grilled Chicken, Veggie Burger",1486,61,231,42
+491,"Rice Bowl, Grilled Chicken",2131,40,242,42
+492,"Pasta Salad, Rice Bowl",1527,47,158,55
+493,"Cheese Pizza, Chicken Wrap, Rice Bowl, Pasta Salad",2495,41,244,59
+494,"Rice Bowl, Pasta Salad, Grilled Chicken, Veggie Burger",1805,60,211,84
+495,"Fish Tacos, Garden Salad",1678,92,227,81
+496,"Rice Bowl, Fish Tacos, Grilled Chicken",2267,114,197,45
+497,"Grilled Chicken, Rice Bowl",2152,47,171,56
+498,"Chicken Wrap, Garden Salad, Rice Bowl",1814,82,194,46
+499,"Pasta Salad, Garden Salad",1589,89,201,66
+500,"Cheese Pizza, Pasta Salad",1338,88,248,80

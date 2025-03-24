@@ -1,0 +1,3389 @@
+{
+    "waste_summary": {
+        "food_waste": [
+            {
+                "Food_Item": "Cheese Pizza",
+                "Prepared_Quantity": 8574,
+                "Wasted_Quantity": 2355,
+                "Waste_Percentage": 27.47
+            },
+            {
+                "Food_Item": "Chicken Wrap",
+                "Prepared_Quantity": 7626,
+                "Wasted_Quantity": 2139,
+                "Waste_Percentage": 28.05
+            },
+            {
+                "Food_Item": "Fish Tacos",
+                "Prepared_Quantity": 8937,
+                "Wasted_Quantity": 1869,
+                "Waste_Percentage": 20.91
+            },
+            {
+                "Food_Item": "Garden Salad",
+                "Prepared_Quantity": 7722,
+                "Wasted_Quantity": 2301,
+                "Waste_Percentage": 29.8
+            },
+            {
+                "Food_Item": "Grilled Chicken",
+                "Prepared_Quantity": 5162,
+                "Wasted_Quantity": 1322,
+                "Waste_Percentage": 25.61
+            },
+            {
+                "Food_Item": "Pasta Salad",
+                "Prepared_Quantity": 7998,
+                "Wasted_Quantity": 1776,
+                "Waste_Percentage": 22.21
+            },
+            {
+                "Food_Item": "Rice Bowl",
+                "Prepared_Quantity": 9546,
+                "Wasted_Quantity": 2433,
+                "Waste_Percentage": 25.49
+            },
+            {
+                "Food_Item": "Veggie Burger",
+                "Prepared_Quantity": 7299,
+                "Wasted_Quantity": 2025,
+                "Waste_Percentage": 27.74
+            }
+        ],
+        "raw_waste": [
+            {
+                "Raw_Material": "Beans",
+                "Material_Used_kg": 99.44,
+                "Material_Wasted_kg": 24.89,
+                "Waste_Percentage": 25.03
+            },
+            {
+                "Raw_Material": "Burger Bun",
+                "Material_Used_kg": 79.49,
+                "Material_Wasted_kg": 22.48,
+                "Waste_Percentage": 28.28
+            },
+            {
+                "Raw_Material": "Cabbage",
+                "Material_Used_kg": 93.41,
+                "Material_Wasted_kg": 19.07,
+                "Waste_Percentage": 20.42
+            },
+            {
+                "Raw_Material": "Cheese",
+                "Material_Used_kg": 79.98,
+                "Material_Wasted_kg": 22.799999999999997,
+                "Waste_Percentage": 28.51
+            },
+            {
+                "Raw_Material": "Chicken Breast",
+                "Material_Used_kg": 82.79,
+                "Material_Wasted_kg": 20.15,
+                "Waste_Percentage": 24.34
+            },
+            {
+                "Raw_Material": "Chicken Strips",
+                "Material_Used_kg": 84.06,
+                "Material_Wasted_kg": 23.29,
+                "Waste_Percentage": 27.71
+            },
+            {
+                "Raw_Material": "Cucumber",
+                "Material_Used_kg": 81.69,
+                "Material_Wasted_kg": 24.71,
+                "Waste_Percentage": 30.25
+            },
+            {
+                "Raw_Material": "Fish Fillet",
+                "Material_Used_kg": 84.95,
+                "Material_Wasted_kg": 18.25,
+                "Waste_Percentage": 21.48
+            },
+            {
+                "Raw_Material": "Lettuce",
+                "Material_Used_kg": 136.83,
+                "Material_Wasted_kg": 38.93,
+                "Waste_Percentage": 28.45
+            },
+            {
+                "Raw_Material": "Olive Oil",
+                "Material_Used_kg": 83.06,
+                "Material_Wasted_kg": 17.43,
+                "Waste_Percentage": 20.98
+            },
+            {
+                "Raw_Material": "Pasta",
+                "Material_Used_kg": 75.12,
+                "Material_Wasted_kg": 17.07,
+                "Waste_Percentage": 22.72
+            },
+            {
+                "Raw_Material": "Patty",
+                "Material_Used_kg": 67.03,
+                "Material_Wasted_kg": 19.24,
+                "Waste_Percentage": 28.7
+            },
+            {
+                "Raw_Material": "Pizza Base",
+                "Material_Used_kg": 83.69,
+                "Material_Wasted_kg": 23.17,
+                "Waste_Percentage": 27.69
+            },
+            {
+                "Raw_Material": "Rice",
+                "Material_Used_kg": 79.53,
+                "Material_Wasted_kg": 20.11,
+                "Waste_Percentage": 25.29
+            },
+            {
+                "Raw_Material": "Salsa",
+                "Material_Used_kg": 101.03,
+                "Material_Wasted_kg": 26.68,
+                "Waste_Percentage": 26.41
+            },
+            {
+                "Raw_Material": "Spices",
+                "Material_Used_kg": 75.34,
+                "Material_Wasted_kg": 18.32,
+                "Waste_Percentage": 24.32
+            },
+            {
+                "Raw_Material": "Taco Shell",
+                "Material_Used_kg": 72.53,
+                "Material_Wasted_kg": 14.49,
+                "Waste_Percentage": 19.98
+            },
+            {
+                "Raw_Material": "Tomato",
+                "Material_Used_kg": 70.88,
+                "Material_Wasted_kg": 21.5,
+                "Waste_Percentage": 30.33
+            },
+            {
+                "Raw_Material": "Tomato Sauce",
+                "Material_Used_kg": 89.42,
+                "Material_Wasted_kg": 25.71,
+                "Waste_Percentage": 28.75
+            },
+            {
+                "Raw_Material": "Tortilla",
+                "Material_Used_kg": 73.16,
+                "Material_Wasted_kg": 20.29,
+                "Waste_Percentage": 27.73
+            },
+            {
+                "Raw_Material": "Veggies",
+                "Material_Used_kg": 144.09,
+                "Material_Wasted_kg": 37.55,
+                "Waste_Percentage": 26.06
+            }
+        ]
+    },
+    "weekly_forecast": {
+        "recommended_food": [
+            {
+                "Day": "Monday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 970
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 1020
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 1020
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 950
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 990
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 990
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 1070
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 1070
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 1070
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 990
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 1080
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 1060
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 1010
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 1080
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 1060
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 1070
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 980
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1060
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 1070
+            },
+            {
+                "Day": "Monday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 900
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 980
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 950
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 960
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 820
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1020
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 970
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 940
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 960
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 1030
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 1030
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 1030
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 890
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 1030
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 950
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 1020
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 1000
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 1010
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 860
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 1020
+            },
+            {
+                "Day": "Tuesday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 1010
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 950
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 1000
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 960
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 960
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 890
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1020
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 990
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 920
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 990
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 960
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1030
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 1020
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 990
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 1020
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 1030
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 940
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Wednesday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 1000
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 890
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 920
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 880
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 890
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 840
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 950
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 920
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 850
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 900
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 910
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 910
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 920
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 860
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 940
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 930
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 910
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 920
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 920
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 900
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 910
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 860
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 950
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 940
+            },
+            {
+                "Day": "Thursday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 910
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 980
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 1000
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 1010
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 940
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 1020
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 970
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 990
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 970
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 1010
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 1060
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 1030
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 960
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Friday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 1030
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 960
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 1030
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 990
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 1000
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 980
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 1010
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 960
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 990
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 1020
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1030
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 1030
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 990
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 1020
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 1030
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 990
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 1030
+            },
+            {
+                "Day": "Saturday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 1010
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 960
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 1000
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 1000
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 930
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 1020
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Breakfast",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 970
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 990
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 1060
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 970
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 1060
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Lunch",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 1040
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Veggie Burger",
+                "Recommended_Quantity": 1000
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Cheese Pizza",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Grilled Chicken",
+                "Recommended_Quantity": 1030
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Pasta Salad",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Fish Tacos",
+                "Recommended_Quantity": 960
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Rice Bowl",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Garden Salad",
+                "Recommended_Quantity": 1050
+            },
+            {
+                "Day": "Sunday",
+                "Meal_Time": "Dinner",
+                "Food_Item": "Chicken Wrap",
+                "Recommended_Quantity": 1030
+            }
+        ],
+        "raw_materials_required": [
+            {
+                "Raw_Material": "Beans",
+                "Material_Used_kg": 99.44,
+                "Required_kg": 99.44
+            },
+            {
+                "Raw_Material": "Burger Bun",
+                "Material_Used_kg": 79.49,
+                "Required_kg": 79.49
+            },
+            {
+                "Raw_Material": "Cabbage",
+                "Material_Used_kg": 93.41,
+                "Required_kg": 93.41
+            },
+            {
+                "Raw_Material": "Cheese",
+                "Material_Used_kg": 79.98,
+                "Required_kg": 79.98
+            },
+            {
+                "Raw_Material": "Chicken Breast",
+                "Material_Used_kg": 82.79,
+                "Required_kg": 82.79
+            },
+            {
+                "Raw_Material": "Chicken Strips",
+                "Material_Used_kg": 84.06,
+                "Required_kg": 84.06
+            },
+            {
+                "Raw_Material": "Cucumber",
+                "Material_Used_kg": 81.69,
+                "Required_kg": 81.69
+            },
+            {
+                "Raw_Material": "Fish Fillet",
+                "Material_Used_kg": 84.95,
+                "Required_kg": 84.95
+            },
+            {
+                "Raw_Material": "Lettuce",
+                "Material_Used_kg": 136.83,
+                "Required_kg": 136.83
+            },
+            {
+                "Raw_Material": "Olive Oil",
+                "Material_Used_kg": 83.06,
+                "Required_kg": 83.06
+            },
+            {
+                "Raw_Material": "Pasta",
+                "Material_Used_kg": 75.12,
+                "Required_kg": 75.12
+            },
+            {
+                "Raw_Material": "Patty",
+                "Material_Used_kg": 67.03,
+                "Required_kg": 67.03
+            },
+            {
+                "Raw_Material": "Pizza Base",
+                "Material_Used_kg": 83.69,
+                "Required_kg": 83.69
+            },
+            {
+                "Raw_Material": "Rice",
+                "Material_Used_kg": 79.53,
+                "Required_kg": 79.53
+            },
+            {
+                "Raw_Material": "Salsa",
+                "Material_Used_kg": 101.03,
+                "Required_kg": 101.03
+            },
+            {
+                "Raw_Material": "Spices",
+                "Material_Used_kg": 75.34,
+                "Required_kg": 75.34
+            },
+            {
+                "Raw_Material": "Taco Shell",
+                "Material_Used_kg": 72.53,
+                "Required_kg": 72.53
+            },
+            {
+                "Raw_Material": "Tomato",
+                "Material_Used_kg": 70.88,
+                "Required_kg": 70.88
+            },
+            {
+                "Raw_Material": "Tomato Sauce",
+                "Material_Used_kg": 89.42,
+                "Required_kg": 89.42
+            },
+            {
+                "Raw_Material": "Tortilla",
+                "Material_Used_kg": 73.16,
+                "Required_kg": 73.16
+            },
+            {
+                "Raw_Material": "Veggies",
+                "Material_Used_kg": 144.09,
+                "Required_kg": 144.09
+            }
+        ],
+        "top_nationalities": [
+            {
+                "Count": "European",
+                "count": 84
+            },
+            {
+                "Count": "North American",
+                "count": 76
+            },
+            {
+                "Count": "Asian",
+                "count": 74
+            }
+        ]
+    },
+    "weekly_menu_grid": [
+        {
+            "Day": "Monday",
+            "Meals": [
+                {
+                    "Meal_Time": "Breakfast",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 79
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 79
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 79
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 136
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 136
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 136
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 120
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 120
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 137
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 137
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 137
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 157
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 157
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 157
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 114
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 114
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 114
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 139
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 139
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 139
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 82
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 82
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 82
+                        }
+                    ]
+                },
+                {
+                    "Meal_Time": "Lunch",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 49
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 49
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 49
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 128
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 128
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 128
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 80
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 80
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 140
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 140
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 140
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 57
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 57
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 57
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 108
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 108
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 108
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 145
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 145
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 145
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 100
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 100
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 100
+                        }
+                    ]
+                },
+                {
+                    "Meal_Time": "Dinner",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 103
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 103
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 103
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 150
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 150
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 150
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 123
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 123
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 54
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 54
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 54
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 108
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 108
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 108
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 118
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 118
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 118
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 90
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 90
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 90
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 124
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 124
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 124
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Day": "Tuesday",
+            "Meals": [
+                {
+                    "Meal_Time": "Breakfast",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 63
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 63
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 63
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 132
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 132
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 132
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 56
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 56
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 80
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 80
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 80
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 82
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 82
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 82
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 148
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 148
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 148
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 83
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 83
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 83
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 89
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 89
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 89
+                        }
+                    ]
+                },
+                {
+                    "Meal_Time": "Lunch",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 69
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 69
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 69
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 149
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 149
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 149
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 58
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 58
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 138
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 138
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 138
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 143
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 143
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 143
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 88
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 88
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 88
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 89
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 89
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 89
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 140
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 140
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 140
+                        }
+                    ]
+                },
+                {
+                    "Meal_Time": "Dinner",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 51
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 51
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 51
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 46
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 46
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 46
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 100
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 100
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 130
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 130
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 130
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 112
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 112
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 112
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 134
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 134
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 134
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 55
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 55
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 55
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 133
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 133
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 133
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Day": "Wednesday",
+            "Meals": [
+                {
+                    "Meal_Time": "Breakfast",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 120
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 120
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 120
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 154
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 154
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 154
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 93
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 93
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 45
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 45
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 45
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 100
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 100
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 100
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 140
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 140
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 140
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 74
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 74
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 74
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 51
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 51
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 51
+                        }
+                    ]
+                },
+                {
+                    "Meal_Time": "Lunch",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 53
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 53
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 53
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 152
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 152
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 152
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 130
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 130
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 100
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 100
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 100
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 116
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 116
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 116
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 83
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 83
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 83
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 86
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 86
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 86
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 86
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 86
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 86
+                        }
+                    ]
+                },
+                {
+                    "Meal_Time": "Dinner",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 62
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 62
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 62
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 62
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 62
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 62
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 77
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 77
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 137
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 137
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 137
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 125
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 125
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 125
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 65
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 65
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 65
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 88
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 88
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 88
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 47
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 47
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 47
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Day": "Thursday",
+            "Meals": [
+                {
+                    "Meal_Time": "Breakfast",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 132
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 132
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 132
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 70
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 70
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 70
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 149
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 149
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 156
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 156
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 156
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 69
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 69
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 69
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 149
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 149
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 149
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 101
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 101
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 101
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 44
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 44
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 44
+                        }
+                    ]
+                },
+                {
+                    "Meal_Time": "Lunch",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 59
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 59
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 59
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 132
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 132
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 132
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 82
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 82
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 108
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 108
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 108
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 52
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 52
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 52
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 124
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 124
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 124
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 56
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 56
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 56
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 43
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 43
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 43
+                        }
+                    ]
+                },
+                {
+                    "Meal_Time": "Dinner",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 116
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 116
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 116
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 76
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 76
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 76
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 69
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 69
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 72
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 72
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 72
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 142
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 142
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 142
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 69
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 69
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 69
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 112
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 112
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 112
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 113
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 113
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 113
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Day": "Friday",
+            "Meals": [
+                {
+                    "Meal_Time": "Breakfast",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 153
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 153
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 153
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 87
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 87
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 87
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 110
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 110
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 41
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 41
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 41
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 149
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 149
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 149
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 136
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 136
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 136
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 65
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 65
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 65
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 142
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 142
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 142
+                        }
+                    ]
+                },
+                {
+                    "Meal_Time": "Lunch",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 71
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 71
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 71
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 71
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 71
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 71
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 72
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 72
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 152
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 152
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 152
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 101
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 101
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 101
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 152
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 152
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 152
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 137
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 137
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 137
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 96
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 96
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 96
+                        }
+                    ]
+                },
+                {
+                    "Meal_Time": "Dinner",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 79
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 79
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 79
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 141
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 141
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 141
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 89
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 89
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 120
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 120
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 120
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 47
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 47
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 47
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 104
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 104
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 104
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 45
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 45
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 45
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 136
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 136
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 136
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Day": "Saturday",
+            "Meals": [
+                {
+                    "Meal_Time": "Breakfast",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 108
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 108
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 108
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 116
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 116
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 116
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 108
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 108
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 66
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 66
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 66
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 155
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 155
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 155
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 145
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 145
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 145
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 88
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 88
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 88
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 120
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 120
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 120
+                        }
+                    ]
+                },
+                {
+                    "Meal_Time": "Lunch",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 130
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 130
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 130
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 53
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 53
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 53
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 91
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 91
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 124
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 124
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 124
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 150
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 150
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 150
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 133
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 133
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 133
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 106
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 106
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 106
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 104
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 104
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 104
+                        }
+                    ]
+                },
+                {
+                    "Meal_Time": "Dinner",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 152
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 152
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 152
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 91
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 91
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 91
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 136
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 136
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 98
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 98
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 98
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 159
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 159
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 159
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 146
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 146
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 146
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 137
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 137
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 137
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 119
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 119
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 119
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Day": "Sunday",
+            "Meals": [
+                {
+                    "Meal_Time": "Breakfast",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 72
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 72
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 72
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 104
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 104
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 104
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 86
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 86
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 76
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 76
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 76
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 92
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 92
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 92
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 134
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 134
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 134
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 80
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 80
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 80
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 86
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 86
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 86
+                        }
+                    ]
+                },
+                {
+                    "Meal_Time": "Lunch",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 122
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 122
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 122
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 116
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 116
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 116
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 120
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 120
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 43
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 43
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 43
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 143
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 143
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 143
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 89
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 89
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 89
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 142
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 142
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 142
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 64
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 64
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 64
+                        }
+                    ]
+                },
+                {
+                    "Meal_Time": "Dinner",
+                    "Dishes": [
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 97
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 97
+                        },
+                        {
+                            "Food_Item": "Veggie Burger",
+                            "Recommended_Quantity": 97
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 112
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 112
+                        },
+                        {
+                            "Food_Item": "Cheese Pizza",
+                            "Recommended_Quantity": 112
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 107
+                        },
+                        {
+                            "Food_Item": "Grilled Chicken",
+                            "Recommended_Quantity": 107
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 108
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 108
+                        },
+                        {
+                            "Food_Item": "Pasta Salad",
+                            "Recommended_Quantity": 108
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 117
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 117
+                        },
+                        {
+                            "Food_Item": "Fish Tacos",
+                            "Recommended_Quantity": 117
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 156
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 156
+                        },
+                        {
+                            "Food_Item": "Rice Bowl",
+                            "Recommended_Quantity": 156
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 132
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 132
+                        },
+                        {
+                            "Food_Item": "Garden Salad",
+                            "Recommended_Quantity": 132
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 104
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 104
+                        },
+                        {
+                            "Food_Item": "Chicken Wrap",
+                            "Recommended_Quantity": 104
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
