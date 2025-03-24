@@ -1,0 +1,484 @@
+Day,Meal_Time,Food_Item,Nationality,Prepared_Quantity,Consumed_Quantity,Wasted_Quantity,Raw_Material,Material_Used_kg,Material_Wasted_kg
+Monday,Breakfast,Veggie Burger,Oceanian,99,63,36,Lettuce,4.87,1.77
+Monday,Breakfast,Veggie Burger,Oceanian,99,63,36,Burger Bun,3.22,1.17
+Monday,Breakfast,Veggie Burger,Oceanian,99,63,36,Patty,4.04,1.47
+Monday,Breakfast,Cheese Pizza,Asian,170,150,20,Pizza Base,6.65,0.78
+Monday,Breakfast,Cheese Pizza,Asian,170,150,20,Cheese,1.74,0.2
+Monday,Breakfast,Cheese Pizza,Asian,170,150,20,Tomato Sauce,5.02,0.59
+Monday,Breakfast,Grilled Chicken,Oceanian,151,99,52,Chicken Breast,5.97,2.06
+Monday,Breakfast,Grilled Chicken,Oceanian,151,99,52,Spices,1.68,0.58
+Monday,Breakfast,Pasta Salad,Middle Eastern,172,95,77,Pasta,7.44,3.33
+Monday,Breakfast,Pasta Salad,Middle Eastern,172,95,77,Olive Oil,6.87,3.08
+Monday,Breakfast,Pasta Salad,Middle Eastern,172,95,77,Veggies,7.46,3.34
+Monday,Breakfast,Fish Tacos,Asian,197,115,82,Fish Fillet,7.79,3.24
+Monday,Breakfast,Fish Tacos,Asian,197,115,82,Taco Shell,2.29,0.95
+Monday,Breakfast,Fish Tacos,Asian,197,115,82,Cabbage,4.95,2.06
+Monday,Breakfast,Rice Bowl,South American,143,130,13,Rice,5.8,0.53
+Monday,Breakfast,Rice Bowl,South American,143,130,13,Beans,6.88,0.63
+Monday,Breakfast,Rice Bowl,South American,143,130,13,Salsa,6.87,0.62
+Monday,Breakfast,Garden Salad,African,174,123,51,Lettuce,4.53,1.33
+Monday,Breakfast,Garden Salad,African,174,123,51,Cucumber,6.52,1.91
+Monday,Breakfast,Garden Salad,African,174,123,51,Tomato,2.9,0.85
+Monday,Breakfast,Chicken Wrap,European,103,78,25,Tortilla,3.26,0.79
+Monday,Breakfast,Chicken Wrap,European,103,78,25,Chicken Strips,2.98,0.72
+Monday,Breakfast,Chicken Wrap,European,103,78,25,Veggies,1.38,0.33
+Monday,Lunch,Veggie Burger,South American,62,47,15,Lettuce,1.87,0.45
+Monday,Lunch,Veggie Burger,South American,62,47,15,Burger Bun,2.3,0.56
+Monday,Lunch,Veggie Burger,South American,62,47,15,Patty,2.33,0.56
+Monday,Lunch,Cheese Pizza,South American,161,122,39,Pizza Base,3.25,0.79
+Monday,Lunch,Cheese Pizza,South American,161,122,39,Cheese,2.19,0.53
+Monday,Lunch,Cheese Pizza,South American,161,122,39,Tomato Sauce,6.13,1.49
+Monday,Lunch,Grilled Chicken,Asian,100,53,47,Chicken Breast,4.12,1.94
+Monday,Lunch,Grilled Chicken,Asian,100,53,47,Spices,2.39,1.12
+Monday,Lunch,Pasta Salad,Asian,176,140,36,Pasta,3.99,0.82
+Monday,Lunch,Pasta Salad,Asian,176,140,36,Olive Oil,5.56,1.14
+Monday,Lunch,Pasta Salad,Asian,176,140,36,Veggies,2.76,0.56
+Monday,Lunch,Fish Tacos,North American,72,60,12,Fish Fillet,1.26,0.21
+Monday,Lunch,Fish Tacos,North American,72,60,12,Taco Shell,2.18,0.36
+Monday,Lunch,Fish Tacos,North American,72,60,12,Cabbage,2.89,0.48
+Monday,Lunch,Rice Bowl,South American,136,105,31,Rice,4.91,1.12
+Monday,Lunch,Rice Bowl,South American,136,105,31,Beans,5.37,1.22
+Monday,Lunch,Rice Bowl,South American,136,105,31,Salsa,2.73,0.62
+Monday,Lunch,Garden Salad,Middle Eastern,182,137,45,Lettuce,8.55,2.11
+Monday,Lunch,Garden Salad,Middle Eastern,182,137,45,Cucumber,6.76,1.67
+Monday,Lunch,Garden Salad,Middle Eastern,182,137,45,Tomato,7.24,1.79
+Monday,Lunch,Chicken Wrap,European,126,82,44,Tortilla,3.19,1.11
+Monday,Lunch,Chicken Wrap,European,126,82,44,Chicken Strips,5.68,1.98
+Monday,Lunch,Chicken Wrap,European,126,82,44,Veggies,5.44,1.9
+Monday,Dinner,Veggie Burger,South American,129,68,61,Lettuce,4.69,2.22
+Monday,Dinner,Veggie Burger,South American,129,68,61,Burger Bun,1.35,0.64
+Monday,Dinner,Veggie Burger,South American,129,68,61,Patty,4.88,2.31
+Monday,Dinner,Cheese Pizza,European,188,170,18,Pizza Base,4.31,0.41
+Monday,Dinner,Cheese Pizza,European,188,170,18,Cheese,7.21,0.69
+Monday,Dinner,Cheese Pizza,European,188,170,18,Tomato Sauce,4.57,0.44
+Monday,Dinner,Grilled Chicken,African,154,116,38,Chicken Breast,4.19,1.03
+Monday,Dinner,Grilled Chicken,African,154,116,38,Spices,2.0,0.49
+Monday,Dinner,Pasta Salad,North American,68,37,31,Pasta,1.63,0.74
+Monday,Dinner,Pasta Salad,North American,68,37,31,Olive Oil,1.74,0.79
+Monday,Dinner,Pasta Salad,North American,68,37,31,Veggies,1.82,0.83
+Monday,Dinner,Fish Tacos,African,136,114,22,Fish Fillet,3.2,0.52
+Monday,Dinner,Fish Tacos,African,136,114,22,Taco Shell,2.12,0.34
+Monday,Dinner,Fish Tacos,African,136,114,22,Cabbage,6.54,1.06
+Monday,Dinner,Rice Bowl,Oceanian,148,87,61,Rice,3.01,1.24
+Monday,Dinner,Rice Bowl,Oceanian,148,87,61,Beans,4.09,1.69
+Monday,Dinner,Rice Bowl,Oceanian,148,87,61,Salsa,5.24,2.16
+Monday,Dinner,Garden Salad,Oceanian,113,69,44,Lettuce,1.96,0.76
+Monday,Dinner,Garden Salad,Oceanian,113,69,44,Cucumber,2.98,1.16
+Monday,Dinner,Garden Salad,Oceanian,113,69,44,Tomato,2.99,1.16
+Monday,Dinner,Chicken Wrap,Oceanian,156,126,30,Tortilla,4.17,0.8
+Monday,Dinner,Chicken Wrap,Oceanian,156,126,30,Chicken Strips,4.31,0.83
+Monday,Dinner,Chicken Wrap,Oceanian,156,126,30,Veggies,2.46,0.47
+Tuesday,Breakfast,Veggie Burger,European,79,75,4,Lettuce,1.13,0.06
+Tuesday,Breakfast,Veggie Burger,European,79,75,4,Burger Bun,3.95,0.2
+Tuesday,Breakfast,Veggie Burger,European,79,75,4,Patty,2.17,0.11
+Tuesday,Breakfast,Cheese Pizza,European,166,143,23,Pizza Base,4.6,0.64
+Tuesday,Breakfast,Cheese Pizza,European,166,143,23,Cheese,3.19,0.44
+Tuesday,Breakfast,Cheese Pizza,European,166,143,23,Tomato Sauce,4.3,0.6
+Tuesday,Breakfast,Grilled Chicken,North American,70,47,23,Chicken Breast,2.27,0.74
+Tuesday,Breakfast,Grilled Chicken,North American,70,47,23,Spices,3.01,0.99
+Tuesday,Breakfast,Pasta Salad,African,100,90,10,Pasta,2.8,0.28
+Tuesday,Breakfast,Pasta Salad,African,100,90,10,Olive Oil,4.36,0.44
+Tuesday,Breakfast,Pasta Salad,African,100,90,10,Veggies,1.5,0.15
+Tuesday,Breakfast,Fish Tacos,North American,103,92,11,Fish Fillet,1.25,0.13
+Tuesday,Breakfast,Fish Tacos,North American,103,92,11,Taco Shell,2.94,0.31
+Tuesday,Breakfast,Fish Tacos,North American,103,92,11,Cabbage,4.7,0.5
+Tuesday,Breakfast,Rice Bowl,Oceanian,186,170,16,Rice,2.56,0.22
+Tuesday,Breakfast,Rice Bowl,Oceanian,186,170,16,Beans,3.76,0.32
+Tuesday,Breakfast,Rice Bowl,Oceanian,186,170,16,Salsa,4.67,0.4
+Tuesday,Breakfast,Garden Salad,African,104,57,47,Lettuce,1.17,0.53
+Tuesday,Breakfast,Garden Salad,African,104,57,47,Cucumber,4.18,1.89
+Tuesday,Breakfast,Garden Salad,African,104,57,47,Tomato,3.16,1.43
+Tuesday,Breakfast,Chicken Wrap,North American,112,61,51,Tortilla,4.65,2.12
+Tuesday,Breakfast,Chicken Wrap,North American,112,61,51,Chicken Strips,4.93,2.25
+Tuesday,Breakfast,Chicken Wrap,North American,112,61,51,Veggies,2.78,1.27
+Tuesday,Lunch,Veggie Burger,Middle Eastern,87,70,17,Lettuce,2.0,0.39
+Tuesday,Lunch,Veggie Burger,Middle Eastern,87,70,17,Burger Bun,1.09,0.21
+Tuesday,Lunch,Veggie Burger,Middle Eastern,87,70,17,Patty,2.88,0.56
+Tuesday,Lunch,Cheese Pizza,Oceanian,187,95,92,Pizza Base,3.81,1.88
+Tuesday,Lunch,Cheese Pizza,Oceanian,187,95,92,Cheese,9.0,4.43
+Tuesday,Lunch,Cheese Pizza,Oceanian,187,95,92,Tomato Sauce,9.3,4.57
+Tuesday,Lunch,Grilled Chicken,European,73,47,26,Chicken Breast,0.87,0.31
+Tuesday,Lunch,Grilled Chicken,European,73,47,26,Spices,1.99,0.71
+Tuesday,Lunch,Pasta Salad,European,173,139,34,Pasta,6.43,1.26
+Tuesday,Lunch,Pasta Salad,European,173,139,34,Olive Oil,3.19,0.63
+Tuesday,Lunch,Pasta Salad,European,173,139,34,Veggies,6.42,1.26
+Tuesday,Lunch,Fish Tacos,Asian,179,130,49,Fish Fillet,2.56,0.7
+Tuesday,Lunch,Fish Tacos,Asian,179,130,49,Taco Shell,5.42,1.48
+Tuesday,Lunch,Fish Tacos,Asian,179,130,49,Cabbage,3.64,1.0
+Tuesday,Lunch,Rice Bowl,African,111,65,46,Rice,1.24,0.51
+Tuesday,Lunch,Rice Bowl,African,111,65,46,Beans,1.63,0.67
+Tuesday,Lunch,Rice Bowl,African,111,65,46,Salsa,5.09,2.11
+Tuesday,Lunch,Garden Salad,African,112,57,55,Lettuce,2.09,1.02
+Tuesday,Lunch,Garden Salad,African,112,57,55,Cucumber,2.96,1.45
+Tuesday,Lunch,Garden Salad,African,112,57,55,Tomato,5.24,2.57
+Tuesday,Lunch,Chicken Wrap,Asian,175,157,18,Tortilla,2.84,0.29
+Tuesday,Lunch,Chicken Wrap,Asian,175,157,18,Chicken Strips,4.72,0.49
+Tuesday,Lunch,Chicken Wrap,Asian,175,157,18,Veggies,8.05,0.83
+Tuesday,Dinner,Veggie Burger,South American,64,36,28,Lettuce,1.57,0.69
+Tuesday,Dinner,Veggie Burger,South American,64,36,28,Burger Bun,0.73,0.32
+Tuesday,Dinner,Veggie Burger,South American,64,36,28,Patty,1.66,0.73
+Tuesday,Dinner,Cheese Pizza,North American,58,31,27,Pizza Base,1.59,0.74
+Tuesday,Dinner,Cheese Pizza,North American,58,31,27,Cheese,0.65,0.3
+Tuesday,Dinner,Cheese Pizza,North American,58,31,27,Tomato Sauce,1.65,0.77
+Tuesday,Dinner,Grilled Chicken,Middle Eastern,126,92,34,Chicken Breast,2.17,0.59
+Tuesday,Dinner,Grilled Chicken,Middle Eastern,126,92,34,Spices,4.07,1.1
+Tuesday,Dinner,Pasta Salad,Middle Eastern,163,161,2,Pasta,6.22,0.08
+Tuesday,Dinner,Pasta Salad,Middle Eastern,163,161,2,Olive Oil,6.78,0.08
+Tuesday,Dinner,Pasta Salad,Middle Eastern,163,161,2,Veggies,2.91,0.04
+Tuesday,Dinner,Fish Tacos,Asian,140,97,43,Fish Fillet,6.77,2.08
+Tuesday,Dinner,Fish Tacos,Asian,140,97,43,Taco Shell,1.9,0.58
+Tuesday,Dinner,Fish Tacos,Asian,140,97,43,Cabbage,6.58,2.02
+Tuesday,Dinner,Rice Bowl,South American,168,127,41,Rice,3.39,0.83
+Tuesday,Dinner,Rice Bowl,South American,168,127,41,Beans,3.65,0.89
+Tuesday,Dinner,Rice Bowl,South American,168,127,41,Salsa,2.56,0.63
+Tuesday,Dinner,Garden Salad,Asian,69,49,20,Lettuce,2.81,0.81
+Tuesday,Dinner,Garden Salad,Asian,69,49,20,Cucumber,1.87,0.54
+Tuesday,Dinner,Garden Salad,Asian,69,49,20,Tomato,1.65,0.48
+Tuesday,Dinner,Chicken Wrap,South American,167,125,42,Tortilla,5.21,1.31
+Tuesday,Dinner,Chicken Wrap,South American,167,125,42,Chicken Strips,3.22,0.81
+Tuesday,Dinner,Chicken Wrap,South American,167,125,42,Veggies,6.05,1.52
+Wednesday,Breakfast,Veggie Burger,North American,150,104,46,Lettuce,1.88,0.58
+Wednesday,Breakfast,Veggie Burger,North American,150,104,46,Burger Bun,6.9,2.11
+Wednesday,Breakfast,Veggie Burger,North American,150,104,46,Patty,3.55,1.09
+Wednesday,Breakfast,Cheese Pizza,South American,193,126,67,Pizza Base,5.93,2.06
+Wednesday,Breakfast,Cheese Pizza,South American,193,126,67,Cheese,6.34,2.2
+Wednesday,Breakfast,Cheese Pizza,South American,193,126,67,Tomato Sauce,3.19,1.11
+Wednesday,Breakfast,Grilled Chicken,European,117,79,38,Chicken Breast,2.58,0.84
+Wednesday,Breakfast,Grilled Chicken,European,117,79,38,Spices,2.41,0.78
+Wednesday,Breakfast,Pasta Salad,North American,57,49,8,Pasta,0.58,0.08
+Wednesday,Breakfast,Pasta Salad,North American,57,49,8,Olive Oil,1.77,0.25
+Wednesday,Breakfast,Pasta Salad,North American,57,49,8,Veggies,1.61,0.23
+Wednesday,Breakfast,Fish Tacos,European,125,80,45,Fish Fillet,1.67,0.6
+Wednesday,Breakfast,Fish Tacos,European,125,80,45,Taco Shell,3.13,1.13
+Wednesday,Breakfast,Fish Tacos,European,125,80,45,Cabbage,1.86,0.67
+Wednesday,Breakfast,Rice Bowl,European,175,159,16,Rice,4.79,0.44
+Wednesday,Breakfast,Rice Bowl,European,175,159,16,Beans,7.49,0.69
+Wednesday,Breakfast,Rice Bowl,European,175,159,16,Salsa,6.61,0.6
+Wednesday,Breakfast,Garden Salad,Asian,93,81,12,Lettuce,2.62,0.34
+Wednesday,Breakfast,Garden Salad,Asian,93,81,12,Cucumber,1.34,0.17
+Wednesday,Breakfast,Garden Salad,Asian,93,81,12,Tomato,2.25,0.29
+Wednesday,Breakfast,Chicken Wrap,Middle Eastern,64,60,4,Tortilla,2.25,0.14
+Wednesday,Breakfast,Chicken Wrap,Middle Eastern,64,60,4,Chicken Strips,2.75,0.17
+Wednesday,Breakfast,Chicken Wrap,Middle Eastern,64,60,4,Veggies,2.95,0.18
+Wednesday,Lunch,Veggie Burger,Middle Eastern,67,41,26,Lettuce,1.22,0.47
+Wednesday,Lunch,Veggie Burger,Middle Eastern,67,41,26,Burger Bun,2.34,0.91
+Wednesday,Lunch,Veggie Burger,Middle Eastern,67,41,26,Patty,1.88,0.73
+Wednesday,Lunch,Cheese Pizza,Asian,191,109,82,Pizza Base,3.45,1.48
+Wednesday,Lunch,Cheese Pizza,Asian,191,109,82,Cheese,6.7,2.88
+Wednesday,Lunch,Cheese Pizza,Asian,191,109,82,Tomato Sauce,4.46,1.92
+Wednesday,Lunch,Grilled Chicken,European,163,155,8,Chicken Breast,5.49,0.27
+Wednesday,Lunch,Grilled Chicken,European,163,155,8,Spices,6.78,0.33
+Wednesday,Lunch,Pasta Salad,South American,125,120,5,Pasta,5.95,0.24
+Wednesday,Lunch,Pasta Salad,South American,125,120,5,Olive Oil,4.16,0.17
+Wednesday,Lunch,Pasta Salad,South American,125,120,5,Veggies,1.9,0.08
+Wednesday,Lunch,Fish Tacos,Asian,145,134,11,Fish Fillet,2.68,0.2
+Wednesday,Lunch,Fish Tacos,Asian,145,134,11,Taco Shell,3.24,0.25
+Wednesday,Lunch,Fish Tacos,Asian,145,134,11,Cabbage,1.56,0.12
+Wednesday,Lunch,Rice Bowl,Middle Eastern,104,78,26,Rice,2.45,0.61
+Wednesday,Lunch,Rice Bowl,Middle Eastern,104,78,26,Beans,2.21,0.55
+Wednesday,Lunch,Rice Bowl,Middle Eastern,104,78,26,Salsa,3.91,0.98
+Wednesday,Lunch,Garden Salad,North American,108,60,48,Lettuce,1.98,0.88
+Wednesday,Lunch,Garden Salad,North American,108,60,48,Cucumber,4.69,2.09
+Wednesday,Lunch,Garden Salad,North American,108,60,48,Tomato,1.51,0.67
+Wednesday,Lunch,Chicken Wrap,Oceanian,108,85,23,Tortilla,4.79,1.02
+Wednesday,Lunch,Chicken Wrap,Oceanian,108,85,23,Chicken Strips,1.84,0.39
+Wednesday,Lunch,Chicken Wrap,Oceanian,108,85,23,Veggies,2.5,0.53
+Wednesday,Dinner,Veggie Burger,Oceanian,78,57,21,Lettuce,3.09,0.83
+Wednesday,Dinner,Veggie Burger,Oceanian,78,57,21,Burger Bun,2.67,0.72
+Wednesday,Dinner,Veggie Burger,Oceanian,78,57,21,Patty,1.3,0.35
+Wednesday,Dinner,Cheese Pizza,South American,78,55,23,Pizza Base,2.74,0.81
+Wednesday,Dinner,Cheese Pizza,South American,78,55,23,Cheese,0.98,0.29
+Wednesday,Dinner,Cheese Pizza,South American,78,55,23,Tomato Sauce,1.75,0.51
+Wednesday,Dinner,Grilled Chicken,Asian,97,61,36,Chicken Breast,1.37,0.51
+Wednesday,Dinner,Grilled Chicken,Asian,97,61,36,Spices,1.62,0.6
+Wednesday,Dinner,Pasta Salad,Oceanian,172,136,36,Pasta,3.04,0.64
+Wednesday,Dinner,Pasta Salad,Oceanian,172,136,36,Olive Oil,3.94,0.82
+Wednesday,Dinner,Pasta Salad,Oceanian,172,136,36,Veggies,4.68,0.98
+Wednesday,Dinner,Fish Tacos,Middle Eastern,157,123,34,Fish Fillet,4.82,1.04
+Wednesday,Dinner,Fish Tacos,Middle Eastern,157,123,34,Taco Shell,3.46,0.75
+Wednesday,Dinner,Fish Tacos,Middle Eastern,157,123,34,Cabbage,4.95,1.07
+Wednesday,Dinner,Rice Bowl,South American,82,56,26,Rice,2.25,0.71
+Wednesday,Dinner,Rice Bowl,South American,82,56,26,Beans,2.68,0.85
+Wednesday,Dinner,Rice Bowl,South American,82,56,26,Salsa,1.73,0.55
+Wednesday,Dinner,Garden Salad,Middle Eastern,111,63,48,Lettuce,1.63,0.7
+Wednesday,Dinner,Garden Salad,Middle Eastern,111,63,48,Cucumber,2.18,0.94
+Wednesday,Dinner,Garden Salad,Middle Eastern,111,63,48,Tomato,1.28,0.55
+Wednesday,Dinner,Chicken Wrap,Oceanian,59,36,23,Tortilla,2.06,0.8
+Wednesday,Dinner,Chicken Wrap,Oceanian,59,36,23,Chicken Strips,2.02,0.79
+Wednesday,Dinner,Chicken Wrap,Oceanian,59,36,23,Veggies,2.84,1.11
+Thursday,Breakfast,Veggie Burger,Oceanian,165,131,34,Lettuce,6.33,1.31
+Thursday,Breakfast,Veggie Burger,Oceanian,165,131,34,Burger Bun,6.7,1.38
+Thursday,Breakfast,Veggie Burger,Oceanian,165,131,34,Patty,4.44,0.92
+Thursday,Breakfast,Cheese Pizza,North American,88,67,21,Pizza Base,4.14,0.99
+Thursday,Breakfast,Cheese Pizza,North American,88,67,21,Cheese,2.81,0.67
+Thursday,Breakfast,Cheese Pizza,North American,88,67,21,Tomato Sauce,2.39,0.57
+Thursday,Breakfast,Grilled Chicken,Oceanian,187,138,49,Chicken Breast,7.39,1.94
+Thursday,Breakfast,Grilled Chicken,Oceanian,187,138,49,Spices,9.12,2.39
+Thursday,Breakfast,Pasta Salad,Asian,196,127,69,Pasta,2.78,0.98
+Thursday,Breakfast,Pasta Salad,Asian,196,127,69,Olive Oil,8.38,2.95
+Thursday,Breakfast,Pasta Salad,Asian,196,127,69,Veggies,8.77,3.09
+Thursday,Breakfast,Fish Tacos,European,87,79,8,Fish Fillet,2.97,0.27
+Thursday,Breakfast,Fish Tacos,European,87,79,8,Taco Shell,1.84,0.17
+Thursday,Breakfast,Fish Tacos,European,87,79,8,Cabbage,3.52,0.32
+Thursday,Breakfast,Rice Bowl,European,187,125,62,Rice,2.62,0.87
+Thursday,Breakfast,Rice Bowl,European,187,125,62,Beans,4.37,1.45
+Thursday,Breakfast,Rice Bowl,European,187,125,62,Salsa,5.65,1.87
+Thursday,Breakfast,Garden Salad,Middle Eastern,127,119,8,Lettuce,1.32,0.08
+Thursday,Breakfast,Garden Salad,Middle Eastern,127,119,8,Cucumber,5.07,0.32
+Thursday,Breakfast,Garden Salad,Middle Eastern,127,119,8,Tomato,1.93,0.12
+Thursday,Breakfast,Chicken Wrap,African,56,43,13,Tortilla,1.15,0.27
+Thursday,Breakfast,Chicken Wrap,African,56,43,13,Chicken Strips,1.19,0.28
+Thursday,Breakfast,Chicken Wrap,African,56,43,13,Veggies,0.79,0.18
+Thursday,Lunch,Veggie Burger,Middle Eastern,74,61,13,Lettuce,1.05,0.18
+Thursday,Lunch,Veggie Burger,Middle Eastern,74,61,13,Burger Bun,1.58,0.28
+Thursday,Lunch,Veggie Burger,Middle Eastern,74,61,13,Patty,1.42,0.25
+Thursday,Lunch,Cheese Pizza,Middle Eastern,165,125,40,Pizza Base,6.08,1.47
+Thursday,Lunch,Cheese Pizza,Middle Eastern,165,125,40,Cheese,4.88,1.18
+Thursday,Lunch,Cheese Pizza,Middle Eastern,165,125,40,Tomato Sauce,5.88,1.42
+Thursday,Lunch,Grilled Chicken,European,103,56,47,Chicken Breast,3.3,1.51
+Thursday,Lunch,Grilled Chicken,European,103,56,47,Spices,4.97,2.27
+Thursday,Lunch,Pasta Salad,African,135,101,34,Pasta,3.94,0.99
+Thursday,Lunch,Pasta Salad,African,135,101,34,Olive Oil,2.39,0.6
+Thursday,Lunch,Pasta Salad,African,135,101,34,Veggies,6.55,1.65
+Thursday,Lunch,Fish Tacos,African,65,38,27,Fish Fillet,2.44,1.01
+Thursday,Lunch,Fish Tacos,African,65,38,27,Taco Shell,2.13,0.88
+Thursday,Lunch,Fish Tacos,African,65,38,27,Cabbage,1.98,0.82
+Thursday,Lunch,Rice Bowl,European,156,129,27,Rice,2.32,0.4
+Thursday,Lunch,Rice Bowl,European,156,129,27,Beans,4.8,0.83
+Thursday,Lunch,Rice Bowl,European,156,129,27,Salsa,4.73,0.82
+Thursday,Lunch,Garden Salad,African,71,61,10,Lettuce,2.59,0.37
+Thursday,Lunch,Garden Salad,African,71,61,10,Cucumber,1.64,0.23
+Thursday,Lunch,Garden Salad,African,71,61,10,Tomato,0.86,0.12
+Thursday,Lunch,Chicken Wrap,European,54,33,21,Tortilla,2.22,0.86
+Thursday,Lunch,Chicken Wrap,European,54,33,21,Chicken Strips,2.64,1.02
+Thursday,Lunch,Chicken Wrap,European,54,33,21,Veggies,2.36,0.92
+Thursday,Dinner,Veggie Burger,Asian,145,140,5,Lettuce,6.65,0.23
+Thursday,Dinner,Veggie Burger,Asian,145,140,5,Burger Bun,6.83,0.24
+Thursday,Dinner,Veggie Burger,Asian,145,140,5,Patty,2.07,0.07
+Thursday,Dinner,Cheese Pizza,North American,95,49,46,Pizza Base,1.74,0.84
+Thursday,Dinner,Cheese Pizza,North American,95,49,46,Cheese,1.61,0.78
+Thursday,Dinner,Cheese Pizza,North American,95,49,46,Tomato Sauce,3.99,1.93
+Thursday,Dinner,Grilled Chicken,North American,87,79,8,Chicken Breast,3.91,0.36
+Thursday,Dinner,Grilled Chicken,North American,87,79,8,Spices,2.13,0.2
+Thursday,Dinner,Pasta Salad,Middle Eastern,90,85,5,Pasta,1.95,0.11
+Thursday,Dinner,Pasta Salad,Middle Eastern,90,85,5,Olive Oil,4.02,0.22
+Thursday,Dinner,Pasta Salad,Middle Eastern,90,85,5,Veggies,3.25,0.18
+Thursday,Dinner,Fish Tacos,Asian,178,171,7,Fish Fillet,3.6,0.14
+Thursday,Dinner,Fish Tacos,Asian,178,171,7,Taco Shell,8.15,0.32
+Thursday,Dinner,Fish Tacos,Asian,178,171,7,Cabbage,3.61,0.14
+Thursday,Dinner,Rice Bowl,European,87,56,31,Rice,0.94,0.34
+Thursday,Dinner,Rice Bowl,European,87,56,31,Beans,3.5,1.25
+Thursday,Dinner,Rice Bowl,European,87,56,31,Salsa,2.15,0.77
+Thursday,Dinner,Garden Salad,African,140,103,37,Lettuce,4.52,1.2
+Thursday,Dinner,Garden Salad,African,140,103,37,Cucumber,3.22,0.85
+Thursday,Dinner,Garden Salad,African,140,103,37,Tomato,2.04,0.54
+Thursday,Dinner,Chicken Wrap,African,142,117,25,Tortilla,4.91,0.86
+Thursday,Dinner,Chicken Wrap,African,142,117,25,Chicken Strips,7.04,1.24
+Thursday,Dinner,Chicken Wrap,African,142,117,25,Veggies,1.81,0.32
+Friday,Breakfast,Veggie Burger,African,192,169,23,Lettuce,7.33,0.88
+Friday,Breakfast,Veggie Burger,African,192,169,23,Burger Bun,4.48,0.54
+Friday,Breakfast,Veggie Burger,African,192,169,23,Patty,3.79,0.45
+Friday,Breakfast,Cheese Pizza,Oceanian,109,72,37,Pizza Base,4.48,1.52
+Friday,Breakfast,Cheese Pizza,Oceanian,109,72,37,Cheese,4.14,1.41
+Friday,Breakfast,Cheese Pizza,Oceanian,109,72,37,Tomato Sauce,3.99,1.35
+Friday,Breakfast,Grilled Chicken,African,138,116,22,Chicken Breast,5.63,0.9
+Friday,Breakfast,Grilled Chicken,African,138,116,22,Spices,4.02,0.64
+Friday,Breakfast,Pasta Salad,South American,52,38,14,Pasta,1.5,0.4
+Friday,Breakfast,Pasta Salad,South American,52,38,14,Olive Oil,1.78,0.48
+Friday,Breakfast,Pasta Salad,South American,52,38,14,Veggies,1.99,0.54
+Friday,Breakfast,Fish Tacos,North American,187,152,35,Fish Fillet,4.48,0.84
+Friday,Breakfast,Fish Tacos,North American,187,152,35,Taco Shell,8.32,1.56
+Friday,Breakfast,Fish Tacos,North American,187,152,35,Cabbage,8.67,1.62
+Friday,Breakfast,Rice Bowl,North American,171,153,18,Rice,2.02,0.21
+Friday,Breakfast,Rice Bowl,North American,171,153,18,Beans,4.01,0.42
+Friday,Breakfast,Rice Bowl,North American,171,153,18,Salsa,5.26,0.55
+Friday,Breakfast,Garden Salad,Asian,82,49,33,Lettuce,2.81,1.13
+Friday,Breakfast,Garden Salad,Asian,82,49,33,Cucumber,3.71,1.49
+Friday,Breakfast,Garden Salad,Asian,82,49,33,Tomato,1.62,0.65
+Friday,Breakfast,Chicken Wrap,Middle Eastern,178,121,57,Tortilla,6.2,1.98
+Friday,Breakfast,Chicken Wrap,Middle Eastern,178,121,57,Chicken Strips,2.93,0.94
+Friday,Breakfast,Chicken Wrap,Middle Eastern,178,121,57,Veggies,6.64,2.13
+Friday,Lunch,Veggie Burger,North American,89,72,17,Lettuce,1.12,0.21
+Friday,Lunch,Veggie Burger,North American,89,72,17,Burger Bun,1.07,0.2
+Friday,Lunch,Veggie Burger,North American,89,72,17,Patty,3.88,0.74
+Friday,Lunch,Cheese Pizza,Asian,89,62,27,Pizza Base,3.46,1.05
+Friday,Lunch,Cheese Pizza,Asian,89,62,27,Cheese,3.32,1.01
+Friday,Lunch,Cheese Pizza,Asian,89,62,27,Tomato Sauce,4.26,1.29
+Friday,Lunch,Grilled Chicken,African,90,52,38,Chicken Breast,2.24,0.94
+Friday,Lunch,Grilled Chicken,African,90,52,38,Spices,4.2,1.77
+Friday,Lunch,Pasta Salad,North American,191,145,46,Pasta,3.58,0.86
+Friday,Lunch,Pasta Salad,North American,191,145,46,Olive Oil,1.97,0.48
+Friday,Lunch,Pasta Salad,North American,191,145,46,Veggies,8.04,1.94
+Friday,Lunch,Fish Tacos,Oceanian,127,111,16,Fish Fillet,3.22,0.41
+Friday,Lunch,Fish Tacos,Oceanian,127,111,16,Taco Shell,1.71,0.22
+Friday,Lunch,Fish Tacos,Oceanian,127,111,16,Cabbage,1.68,0.21
+Friday,Lunch,Rice Bowl,North American,191,108,83,Rice,7.35,3.19
+Friday,Lunch,Rice Bowl,North American,191,108,83,Beans,6.71,2.92
+Friday,Lunch,Rice Bowl,North American,191,108,83,Salsa,7.62,3.31
+Friday,Lunch,Garden Salad,Asian,172,151,21,Lettuce,3.92,0.48
+Friday,Lunch,Garden Salad,Asian,172,151,21,Cucumber,4.2,0.51
+Friday,Lunch,Garden Salad,Asian,172,151,21,Tomato,5.56,0.68
+Friday,Lunch,Chicken Wrap,European,121,116,5,Tortilla,5.34,0.22
+Friday,Lunch,Chicken Wrap,European,121,116,5,Chicken Strips,6.0,0.25
+Friday,Lunch,Chicken Wrap,European,121,116,5,Veggies,3.62,0.15
+Friday,Dinner,Veggie Burger,Middle Eastern,99,65,34,Lettuce,4.88,1.67
+Friday,Dinner,Veggie Burger,Middle Eastern,99,65,34,Burger Bun,1.85,0.64
+Friday,Dinner,Veggie Burger,Middle Eastern,99,65,34,Patty,1.51,0.52
+Friday,Dinner,Cheese Pizza,Oceanian,177,97,80,Pizza Base,7.64,3.45
+Friday,Dinner,Cheese Pizza,Oceanian,177,97,80,Cheese,3.67,1.66
+Friday,Dinner,Cheese Pizza,Oceanian,177,97,80,Tomato Sauce,8.09,3.66
+Friday,Dinner,Grilled Chicken,Asian,112,81,31,Chicken Breast,1.82,0.5
+Friday,Dinner,Grilled Chicken,Asian,112,81,31,Spices,1.51,0.42
+Friday,Dinner,Pasta Salad,Asian,150,79,71,Pasta,6.07,2.88
+Friday,Dinner,Pasta Salad,Asian,150,79,71,Olive Oil,4.29,2.03
+Friday,Dinner,Pasta Salad,Asian,150,79,71,Veggies,3.02,1.43
+Friday,Dinner,Fish Tacos,North American,59,57,2,Fish Fillet,2.23,0.08
+Friday,Dinner,Fish Tacos,North American,59,57,2,Taco Shell,0.98,0.03
+Friday,Dinner,Fish Tacos,North American,59,57,2,Cabbage,0.68,0.02
+Friday,Dinner,Rice Bowl,North American,130,108,22,Rice,4.87,0.82
+Friday,Dinner,Rice Bowl,North American,130,108,22,Beans,5.73,0.97
+Friday,Dinner,Rice Bowl,North American,130,108,22,Salsa,2.65,0.45
+Friday,Dinner,Garden Salad,European,57,32,25,Lettuce,1.69,0.74
+Friday,Dinner,Garden Salad,European,57,32,25,Cucumber,1.75,0.77
+Friday,Dinner,Garden Salad,European,57,32,25,Tomato,0.93,0.41
+Friday,Dinner,Chicken Wrap,North American,170,144,26,Tortilla,3.41,0.52
+Friday,Dinner,Chicken Wrap,North American,170,144,26,Chicken Strips,7.18,1.1
+Friday,Dinner,Chicken Wrap,North American,170,144,26,Veggies,3.55,0.54
+Saturday,Breakfast,Veggie Burger,African,136,92,44,Lettuce,1.51,0.49
+Saturday,Breakfast,Veggie Burger,African,136,92,44,Burger Bun,6.35,2.05
+Saturday,Breakfast,Veggie Burger,African,136,92,44,Patty,2.55,0.83
+Saturday,Breakfast,Cheese Pizza,South American,145,130,15,Pizza Base,2.25,0.23
+Saturday,Breakfast,Cheese Pizza,South American,145,130,15,Cheese,3.01,0.31
+Saturday,Breakfast,Cheese Pizza,South American,145,130,15,Tomato Sauce,2.88,0.3
+Saturday,Breakfast,Grilled Chicken,Oceanian,135,112,23,Chicken Breast,3.84,0.65
+Saturday,Breakfast,Grilled Chicken,Oceanian,135,112,23,Spices,1.64,0.28
+Saturday,Breakfast,Pasta Salad,Oceanian,83,53,30,Pasta,3.93,1.42
+Saturday,Breakfast,Pasta Salad,Oceanian,83,53,30,Olive Oil,1.75,0.63
+Saturday,Breakfast,Pasta Salad,Oceanian,83,53,30,Veggies,3.98,1.44
+Saturday,Breakfast,Fish Tacos,North American,194,172,22,Fish Fillet,8.45,0.96
+Saturday,Breakfast,Fish Tacos,North American,194,172,22,Taco Shell,2.18,0.25
+Saturday,Breakfast,Fish Tacos,North American,194,172,22,Cabbage,8.94,1.01
+Saturday,Breakfast,Rice Bowl,African,182,135,47,Rice,6.31,1.63
+Saturday,Breakfast,Rice Bowl,African,182,135,47,Beans,7.04,1.82
+Saturday,Breakfast,Rice Bowl,African,182,135,47,Salsa,7.86,2.03
+Saturday,Breakfast,Garden Salad,European,111,103,8,Lettuce,1.73,0.12
+Saturday,Breakfast,Garden Salad,European,111,103,8,Cucumber,4.13,0.3
+Saturday,Breakfast,Garden Salad,European,111,103,8,Tomato,4.31,0.31
+Saturday,Breakfast,Chicken Wrap,South American,151,104,47,Tortilla,4.48,1.39
+Saturday,Breakfast,Chicken Wrap,South American,151,104,47,Chicken Strips,6.06,1.88
+Saturday,Breakfast,Chicken Wrap,South American,151,104,47,Veggies,3.17,0.99
+Saturday,Lunch,Veggie Burger,South American,163,81,82,Lettuce,3.88,1.95
+Saturday,Lunch,Veggie Burger,South American,163,81,82,Burger Bun,7.97,4.01
+Saturday,Lunch,Veggie Burger,South American,163,81,82,Patty,2.59,1.3
+Saturday,Lunch,Cheese Pizza,European,67,44,23,Pizza Base,3.04,1.04
+Saturday,Lunch,Cheese Pizza,European,67,44,23,Cheese,3.33,1.14
+Saturday,Lunch,Cheese Pizza,European,67,44,23,Tomato Sauce,1.88,0.65
+Saturday,Lunch,Grilled Chicken,South American,114,96,18,Chicken Breast,5.66,0.89
+Saturday,Lunch,Grilled Chicken,South American,114,96,18,Spices,5.31,0.84
+Saturday,Lunch,Pasta Salad,African,155,150,5,Pasta,2.4,0.08
+Saturday,Lunch,Pasta Salad,African,155,150,5,Olive Oil,6.03,0.19
+Saturday,Lunch,Pasta Salad,African,155,150,5,Veggies,2.39,0.08
+Saturday,Lunch,Fish Tacos,North American,188,154,34,Fish Fillet,2.1,0.38
+Saturday,Lunch,Fish Tacos,North American,188,154,34,Taco Shell,6.06,1.1
+Saturday,Lunch,Fish Tacos,North American,188,154,34,Cabbage,5.33,0.96
+Saturday,Lunch,Rice Bowl,African,167,118,49,Rice,5.94,1.74
+Saturday,Lunch,Rice Bowl,African,167,118,49,Beans,5.03,1.48
+Saturday,Lunch,Rice Bowl,African,167,118,49,Salsa,7.65,2.25
+Saturday,Lunch,Garden Salad,North American,133,131,2,Lettuce,4.34,0.07
+Saturday,Lunch,Garden Salad,North American,133,131,2,Cucumber,5.12,0.08
+Saturday,Lunch,Garden Salad,North American,133,131,2,Tomato,3.96,0.06
+Saturday,Lunch,Chicken Wrap,European,131,65,66,Tortilla,3.13,1.57
+Saturday,Lunch,Chicken Wrap,European,131,65,66,Chicken Strips,4.95,2.49
+Saturday,Lunch,Chicken Wrap,European,131,65,66,Veggies,2.36,1.19
+Saturday,Dinner,Veggie Burger,South American,190,109,81,Lettuce,7.65,3.26
+Saturday,Dinner,Veggie Burger,South American,190,109,81,Burger Bun,8.47,3.61
+Saturday,Dinner,Veggie Burger,South American,190,109,81,Patty,7.92,3.38
+Saturday,Dinner,Cheese Pizza,African,114,107,7,Pizza Base,4.74,0.29
+Saturday,Dinner,Cheese Pizza,African,114,107,7,Cheese,2.9,0.18
+Saturday,Dinner,Cheese Pizza,African,114,107,7,Tomato Sauce,1.94,0.12
+Saturday,Dinner,Grilled Chicken,European,171,170,1,Chicken Breast,8.19,0.05
+Saturday,Dinner,Grilled Chicken,European,171,170,1,Spices,6.11,0.04
+Saturday,Dinner,Pasta Salad,South American,123,98,25,Pasta,1.29,0.26
+Saturday,Dinner,Pasta Salad,South American,123,98,25,Olive Oil,3.27,0.66
+Saturday,Dinner,Pasta Salad,South American,123,98,25,Veggies,1.59,0.32
+Saturday,Dinner,Fish Tacos,South American,199,126,73,Fish Fillet,4.78,1.75
+Saturday,Dinner,Fish Tacos,South American,199,126,73,Taco Shell,3.46,1.27
+Saturday,Dinner,Fish Tacos,South American,199,126,73,Cabbage,7.37,2.7
+Saturday,Dinner,Rice Bowl,European,183,146,37,Rice,5.17,1.05
+Saturday,Dinner,Rice Bowl,European,183,146,37,Beans,7.23,1.46
+Saturday,Dinner,Rice Bowl,European,183,146,37,Salsa,5.78,1.17
+Saturday,Dinner,Garden Salad,North American,172,96,76,Lettuce,6.49,2.87
+Saturday,Dinner,Garden Salad,North American,172,96,76,Cucumber,6.67,2.95
+Saturday,Dinner,Garden Salad,North American,172,96,76,Tomato,5.58,2.47
+Saturday,Dinner,Chicken Wrap,North American,149,98,51,Tortilla,2.45,0.84
+Saturday,Dinner,Chicken Wrap,North American,149,98,51,Chicken Strips,2.44,0.83
+Saturday,Dinner,Chicken Wrap,North American,149,98,51,Veggies,3.73,1.28
+Sunday,Breakfast,Veggie Burger,Asian,90,83,7,Lettuce,1.62,0.13
+Sunday,Breakfast,Veggie Burger,Asian,90,83,7,Burger Bun,1.08,0.08
+Sunday,Breakfast,Veggie Burger,Asian,90,83,7,Patty,3.41,0.27
+Sunday,Breakfast,Cheese Pizza,African,130,122,8,Pizza Base,3.54,0.22
+Sunday,Breakfast,Cheese Pizza,African,130,122,8,Cheese,4.66,0.29
+Sunday,Breakfast,Cheese Pizza,African,130,122,8,Tomato Sauce,4.58,0.28
+Sunday,Breakfast,Grilled Chicken,African,108,54,54,Chicken Breast,4.74,2.37
+Sunday,Breakfast,Grilled Chicken,African,108,54,54,Spices,2.6,1.3
+Sunday,Breakfast,Pasta Salad,African,95,71,24,Pasta,4.5,1.14
+Sunday,Breakfast,Pasta Salad,African,95,71,24,Olive Oil,1.91,0.48
+Sunday,Breakfast,Pasta Salad,African,95,71,24,Veggies,1.18,0.3
+Sunday,Breakfast,Fish Tacos,North American,115,99,16,Fish Fillet,5.68,0.79
+Sunday,Breakfast,Fish Tacos,North American,115,99,16,Taco Shell,4.56,0.63
+Sunday,Breakfast,Fish Tacos,North American,115,99,16,Cabbage,5.75,0.8
+Sunday,Breakfast,Rice Bowl,European,168,84,84,Rice,2.11,1.05
+Sunday,Breakfast,Rice Bowl,European,168,84,84,Beans,6.85,3.43
+Sunday,Breakfast,Rice Bowl,European,168,84,84,Salsa,7.22,3.61
+Sunday,Breakfast,Garden Salad,Middle Eastern,100,54,46,Lettuce,2.51,1.16
+Sunday,Breakfast,Garden Salad,Middle Eastern,100,54,46,Cucumber,4.27,1.97
+Sunday,Breakfast,Garden Salad,Middle Eastern,100,54,46,Tomato,4.17,1.92
+Sunday,Breakfast,Chicken Wrap,Asian,108,55,53,Tortilla,3.94,1.94
+Sunday,Breakfast,Chicken Wrap,Asian,108,55,53,Chicken Strips,2.66,1.3
+Sunday,Breakfast,Chicken Wrap,Asian,108,55,53,Veggies,2.66,1.3
+Sunday,Lunch,Veggie Burger,Asian,153,102,51,Lettuce,3.21,1.07
+Sunday,Lunch,Veggie Burger,Asian,153,102,51,Burger Bun,5.83,1.94
+Sunday,Lunch,Veggie Burger,Asian,153,102,51,Patty,5.17,1.72
+Sunday,Lunch,Cheese Pizza,European,146,76,70,Pizza Base,4.74,2.27
+Sunday,Lunch,Cheese Pizza,European,146,76,70,Cheese,3.34,1.6
+Sunday,Lunch,Cheese Pizza,European,146,76,70,Tomato Sauce,2.48,1.19
+Sunday,Lunch,Grilled Chicken,Asian,151,141,10,Chicken Breast,3.53,0.23
+Sunday,Lunch,Grilled Chicken,Asian,151,141,10,Spices,5.17,0.34
+Sunday,Lunch,Pasta Salad,Asian,54,30,24,Pasta,0.63,0.28
+Sunday,Lunch,Pasta Salad,Asian,54,30,24,Olive Oil,2.29,1.02
+Sunday,Lunch,Pasta Salad,Asian,54,30,24,Veggies,0.94,0.42
+Sunday,Lunch,Fish Tacos,European,179,110,69,Fish Fillet,7.01,2.7
+Sunday,Lunch,Fish Tacos,European,179,110,69,Taco Shell,4.8,1.85
+Sunday,Lunch,Fish Tacos,European,179,110,69,Cabbage,3.45,1.33
+Sunday,Lunch,Rice Bowl,European,112,94,18,Rice,1.26,0.2
+Sunday,Lunch,Rice Bowl,European,112,94,18,Beans,4.0,0.64
+Sunday,Lunch,Rice Bowl,European,112,94,18,Salsa,2.28,0.37
+Sunday,Lunch,Garden Salad,European,178,121,57,Lettuce,5.93,1.9
+Sunday,Lunch,Garden Salad,European,178,121,57,Cucumber,2.78,0.89
+Sunday,Lunch,Garden Salad,European,178,121,57,Tomato,6.35,2.03
+Sunday,Lunch,Chicken Wrap,Asian,81,44,37,Tortilla,1.16,0.53
+Sunday,Lunch,Chicken Wrap,Asian,81,44,37,Chicken Strips,2.64,1.2
+Sunday,Lunch,Chicken Wrap,Asian,81,44,37,Veggies,0.94,0.43
+Sunday,Dinner,Veggie Burger,Oceanian,122,92,30,Lettuce,1.71,0.42
+Sunday,Dinner,Veggie Burger,Oceanian,122,92,30,Burger Bun,2.73,0.67
+Sunday,Dinner,Veggie Burger,Oceanian,122,92,30,Patty,3.59,0.88
+Sunday,Dinner,Cheese Pizza,Oceanian,141,121,20,Pizza Base,1.51,0.21
+Sunday,Dinner,Cheese Pizza,Oceanian,141,121,20,Cheese,4.31,0.61
+Sunday,Dinner,Cheese Pizza,Oceanian,141,121,20,Tomato Sauce,6.69,0.95
+Sunday,Dinner,Grilled Chicken,European,134,76,58,Chicken Breast,3.51,1.52
+Sunday,Dinner,Grilled Chicken,European,134,76,58,Spices,2.61,1.13
+Sunday,Dinner,Pasta Salad,Oceanian,136,130,6,Pasta,4.47,0.2
+Sunday,Dinner,Pasta Salad,Oceanian,136,130,6,Olive Oil,6.61,0.29
+Sunday,Dinner,Pasta Salad,Oceanian,136,130,6,Veggies,2.74,0.12
+Sunday,Dinner,Fish Tacos,Middle Eastern,147,142,5,Fish Fillet,5.99,0.2
+Sunday,Dinner,Fish Tacos,Middle Eastern,147,142,5,Taco Shell,1.66,0.06
+Sunday,Dinner,Fish Tacos,Middle Eastern,147,142,5,Cabbage,4.76,0.16
+Sunday,Dinner,Rice Bowl,Oceanian,195,138,57,Rice,8.22,2.4
+Sunday,Dinner,Rice Bowl,Oceanian,195,138,57,Beans,2.41,0.71
+Sunday,Dinner,Rice Bowl,Oceanian,195,138,57,Salsa,2.77,0.81
+Sunday,Dinner,Garden Salad,South American,165,91,74,Lettuce,2.38,1.07
+Sunday,Dinner,Garden Salad,South American,165,91,74,Cucumber,5.65,2.53
+Sunday,Dinner,Garden Salad,South American,165,91,74,Tomato,5.35,2.4
+Sunday,Dinner,Chicken Wrap,African,131,79,52,Tortilla,2.35,0.93
+Sunday,Dinner,Chicken Wrap,African,131,79,52,Chicken Strips,5.88,2.33
+Sunday,Dinner,Chicken Wrap,African,131,79,52,Veggies,2.51,1.0
